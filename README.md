@@ -1,5 +1,7 @@
 ![](https://i.imgur.com/Wo8lhJl.png)
-<h3 align="center"> The Official Minecraft: Edisi Melayu Wiki<\h3>
+<h3 align="center"> The Official Minecraft: Edisi Melayu Wiki
+
+---
 
 **[Table of Content]**
 ### [Laman Utama / Home](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki)
