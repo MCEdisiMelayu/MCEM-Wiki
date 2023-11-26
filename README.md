@@ -1,15 +1,12 @@
 ![](https://i.imgur.com/Wo8lhJl.png)
-<h3 align="center"> The Official Minecraft: Edisi Melayu Wiki
+<h3 align="center"> The Official Minecraft: Edisi Melayu Wiki<br />
 
----
-
-**[Table of Content]**
 ### [Laman Utama / Home](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki)
-### [General](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki#general)
+### General
 - [Panduan Terjemahan Jawi / Jawi Translation Guide](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Minecraft-Jawi-Translation-Guide-%7C-Panduan-Terjemahan-Jawi-untuk-Minecraft)
-### [Resource Packs](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki#resource-packs)
+### Resource Packs
 - JawiCraft Language Pack
-  - [Pemasangan / Installation](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/JawiCraft-Language-Pack-%7C-Pek-Bahasa-JawiCraft#pemasangan--installation)
-  - [Pepijat / Bugs](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/JawiCraft-Language-Pack-%7C-Pek-Bahasa-JawiCraft#pepijat--bugs)
+  - [Pemasangan / Installation](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/JawiCraft-Language-Pack-%E2%80%90-Pemasangan--%7C-Installation)
+  - [Pepijat / Bugs](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/JawiCraft-Language-Pack-%E2%80%90-Pepijat-%7C-Bugs)
 - Busana Melayu
   - [Masalah yang Diketahui / Known Problems](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Busana-Melayu#masalah-yang-diketahui--known-problems)
