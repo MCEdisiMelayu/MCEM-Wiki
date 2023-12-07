@@ -10,3 +10,10 @@
   - [Pepijat / Bugs](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/JawiCraft-Language-Pack-%E2%80%90-Pepijat-%7C-Bugs)
 - Busana Melayu
   - [Masalah yang Diketahui / Known Problems](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Busana-Melayu#masalah-yang-diketahui--known-problems)
+ 
+### Changelog
+- [JawiCraft Language Pack](https://github.com/Minecraft-EdisiMelayu/Arkib-JawiCraft/blob/main/log-perubahan.md)
+- [Senjata Melayu](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Senjata-Melayu-‐-Changelog)
+- [BetterMalay](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/BetterMalay-Language-Pack-‐-Changelog)
+
+### [Credits](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/MCEM-‐-Credits)
