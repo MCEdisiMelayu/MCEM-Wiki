@@ -8,6 +8,7 @@
 - JawiCraft Language Pack
   - [Pemasangan / Installation](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/JawiCraft-Language-Pack-%E2%80%90-Pemasangan--%7C-Installation)
   - [Pepijat / Bugs](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/JawiCraft-Language-Pack-%E2%80%90-Pepijat-%7C-Bugs)
+  - [Arkib / Archive](https://github.com/Minecraft-EdisiMelayu/Arkib-JawiCraft)
 - Busana Melayu
   - [Masalah yang Diketahui / Known Problems](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Busana-Melayu#masalah-yang-diketahui--known-problems)
  
