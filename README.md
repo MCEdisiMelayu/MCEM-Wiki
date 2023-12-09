@@ -5,6 +5,7 @@
 ### General
 - [Panduan Terjemahan Jawi / Jawi Translation Guide](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Minecraft-Jawi-Translation-Guide-%7C-Panduan-Terjemahan-Jawi-untuk-Minecraft)
 ### Resource Packs
+- [Download Pages](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Resource-Pack-Download-Pages)
 - JawiCraft Language Pack
   - [Pemasangan / Installation](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/JawiCraft-Language-Pack-%E2%80%90-Pemasangan--%7C-Installation)
   - [Pepijat / Bugs](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/JawiCraft-Language-Pack-%E2%80%90-Pepijat-%7C-Bugs)
@@ -14,7 +15,7 @@
  
 ### Changelog
 - [JawiCraft Language Pack](https://github.com/Minecraft-EdisiMelayu/Arkib-JawiCraft/blob/main/log-perubahan.md)
+- [BetterMalay Language Pack](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/BetterMalay-Language-Pack-‐-Changelog)
 - [Senjata Melayu](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Senjata-Melayu-‐-Changelog)
-- [BetterMalay](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/BetterMalay-Language-Pack-‐-Changelog)
-
+- 
 ### [Credits](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/MCEM-‐-Credits)
