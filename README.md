@@ -17,5 +17,5 @@
 - [JawiCraft Language Pack](https://github.com/Minecraft-EdisiMelayu/Arkib-JawiCraft/blob/main/log-perubahan.md)
 - [BetterMalay Language Pack](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/BetterMalay-Language-Pack-‐-Changelog)
 - [Senjata Melayu](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Senjata-Melayu-‐-Changelog)
-- 
+
 ### [Credits](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/MCEM-‐-Credits)
