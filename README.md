@@ -4,6 +4,7 @@
 ### [Laman Utama / Home](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki)
 ### General
 - [Panduan Terjemahan Jawi / Jawi Translation Guide](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Minecraft-Jawi-Translation-Guide-%7C-Panduan-Terjemahan-Jawi-untuk-Minecraft)
+- [Tempat Melaporkan Pepijat / Bug Tracker](https://github.com/Minecraft-EdisiMelayu/MCEM-BugTracker)
 ### Resource Packs
 - [Download Pages](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Resource-Pack-Download-Pages)
 - JawiCraft Language Pack
