@@ -1,5 +1,5 @@
-<!---
-icon: hand-wave
+---
+icon: house-window
 layout:
   title:
     visible: true
@@ -11,7 +11,7 @@ layout:
     visible: true
   pagination:
     visible: false
---->
+---
 
 # Homepage
 
@@ -22,3 +22,7 @@ layout:
 </div>
 
 ## `The Official Minecraft: Edisi Melayu Wiki`
+
+
+
+## Language : [Bahasa Melayu](bahasa-melayu/) | [English](english/)
