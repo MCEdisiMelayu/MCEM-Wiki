@@ -1,4 +1,4 @@
----
+<!---
 icon: hand-wave
 layout:
   title:
@@ -11,7 +11,7 @@ layout:
     visible: true
   pagination:
     visible: false
----
+--->
 
 # Homepage
 
