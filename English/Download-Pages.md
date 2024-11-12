@@ -1,26 +1,44 @@
-# JawiCraft Language Pack - v1.10
-<a href="https://modrinth.com/resourcepack/jawicraft-language-pack/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png"></a>
+---
+description: Links to download pages for all MCEM Packs
+icon: down
+---
 
-# BetterMalay Language Pack - v1.1
-<a href="https://modrinth.com/resourcepack/bettermalay-language-pack/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png"></a>
+# Download Pages
 
-# Senjata Melayu - v1.2
-<a href="https://modrinth.com/resourcepack/senjata-melayu/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png"></a>
+## JawiCraft Language Pack - v1.10
 
-# Senjata Melayu (Bedrock) - v1.1.1
-<a href="https://www.planetminecraft.com/texture-pack/bedrock-keris-melayu-malay-keris/"><img src="https://github.com/blryface/blurrybadges/blob/main/badges/64h/Avaliable%20On%20PMC.png?raw=true"></a>
+[![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth\_64h.png)](https://modrinth.com/resourcepack/jawicraft-language-pack/)
 
-# Busana Melayu (Java) - v1.4
-<a href="https://modrinth.com/resourcepack/busana-melayu/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png"></a> <a href="https://www.curseforge.com/minecraft/texture-packs/busana-melayu"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_64h.png"></a>
+## BetterMalay Language Pack - v1.1
 
-# Busana Melayu (Bedrock) - v1.0
-<a href="https://www.planetminecraft.com/texture-pack/busana-melayu-bedrock-port"><img src="https://github.com/blryface/blurrybadges/blob/main/badges/64h/Avaliable%20On%20PMC.png?raw=true"></a>
+[![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth\_64h.png)](https://modrinth.com/resourcepack/bettermalay-language-pack/)
 
-# Senjata + Busana Melayu - CIT Edition - Release 1
-<a href="https://modrinth.com/resourcepack/senjata-busana-melayu-cit"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png"></a>
+## Senjata Melayu - v1.2
 
-# CurseForge Links - Discontinued; use Modrinth Links for future updates
-## JawiCraft Language Pack
-<a href="https://www.curseforge.com/minecraft/texture-packs/jawicraft-language-pack"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_64h.png"></a>
-## Senjata Melayu
-<a href="https://www.curseforge.com/minecraft/texture-packs/senjata-melayu"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_64h.png"></a>
+[![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth\_64h.png)](https://modrinth.com/resourcepack/senjata-melayu/)
+
+## Senjata Melayu (Bedrock) - v1.1.1
+
+[![](https://github.com/blryface/blurrybadges/blob/main/badges/64h/Avaliable%20On%20PMC.png?raw=true)](https://www.planetminecraft.com/texture-pack/bedrock-keris-melayu-malay-keris/)
+
+## Busana Melayu (Java) - v1.4
+
+[![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth\_64h.png)](https://modrinth.com/resourcepack/busana-melayu/) [![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge\_64h.png)](https://www.curseforge.com/minecraft/texture-packs/busana-melayu)
+
+## Busana Melayu (Bedrock) - v1.0
+
+[![](https://github.com/blryface/blurrybadges/blob/main/badges/64h/Avaliable%20On%20PMC.png?raw=true)](https://www.planetminecraft.com/texture-pack/busana-melayu-bedrock-port)
+
+## Senjata + Busana Melayu - CIT Edition - Release 1
+
+[![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth\_64h.png)](https://modrinth.com/resourcepack/senjata-busana-melayu-cit)
+
+## CurseForge Links - Discontinued; use Modrinth Links for future updates
+
+### JawiCraft Language Pack
+
+[![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge\_64h.png)](https://www.curseforge.com/minecraft/texture-packs/jawicraft-language-pack)
+
+### Senjata Melayu
+
+[![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge\_64h.png)](https://www.curseforge.com/minecraft/texture-packs/senjata-melayu)

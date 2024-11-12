@@ -1,156 +1,165 @@
+---
+hidden: true
+---
+
+# Glosari Minecraft untuk Rumi dan Jawi
+
 Coming from the English wiki? [Use this link to go back when you're finished!](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Content)
 
-- Maintained by NuruddinPlays and Ahmad Ali Karim<br />Originally hosted privately by Ahmad Ali Karim [[Website](https://ahmadalikarim.com) / [Twitter/X](https://twitter.com/ahmadalikarim12)]<br />
-- Diselenggarakan oleh NuruddinPlays dan Ahmad Ali Karim<br />Asalnya dihoskan secara peribadi oleh Ahmad Ali Karim [[Laman Web](https://ahmadalikarim.com) / [Twitter/X](https://twitter.com/ahmadalikarim12)]
+* Maintained by NuruddinPlays and Ahmad Ali Karim\
+  Originally hosted privately by Ahmad Ali Karim \[[Website](https://ahmadalikarim.com) / [Twitter/X](https://twitter.com/ahmadalikarim12)]\
 
----
+* Diselenggarakan oleh NuruddinPlays dan Ahmad Ali Karim\
+  Asalnya dihoskan secara peribadi oleh Ahmad Ali Karim \[[Laman Web](https://ahmadalikarim.com) / [Twitter/X](https://twitter.com/ahmadalikarim12)]
 
-> [Special Minecraft Terms / Istilah Khas Minecraft / ايستيله خاص ماءينکرف‌ت](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Glosari-Minecraft-untuk-Rumi-dan-Jawi#special-minecraft-terms--istilah-khas-minecraft--ايستيله-خاص-ماءينکرفت)
+***
 
-> [General Loan Terms / Istilah Pinjaman Am / ايستيله ڤينجمن عام](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Glosari-Minecraft-untuk-Rumi-dan-Jawi#general-loan-terms--istilah-pinjaman-am--ايستيله-ڤينجمن-عام)
+> [Special Minecraft Terms / Istilah Khas Minecraft / ايستيله خاص ماءينکرف‌ت](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Glosari-Minecraft-untuk-Rumi-dan-Jawi#special-minecraft-terms--istilah-khas-minecraft--%D8%A7%D9%8A%D8%B3%D8%AA%D9%8A%D9%84%D9%87-%D8%AE%D8%A7%D8%B5-%D9%85%D8%A7%D8%A1%D9%8A%D9%86%DA%A9%D8%B1%D9%81%D8%AA)
 
-> [General Technical Terms / Istilah Teknikal Am / ايستيله تيکنيکل عام](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Glosari-Minecraft-untuk-Rumi-dan-Jawi#general-technical-terms--istilah-teknikal-am--ايستيله-تيکنيکل-عام)
+> [General Loan Terms / Istilah Pinjaman Am / ايستيله ڤينجمن عام](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Glosari-Minecraft-untuk-Rumi-dan-Jawi#general-loan-terms--istilah-pinjaman-am--%D8%A7%D9%8A%D8%B3%D8%AA%D9%8A%D9%84%D9%87-%DA%A4%D9%8A%D9%86%D8%AC%D9%85%D9%86-%D8%B9%D8%A7%D9%85)
 
-> [Translation Requests / Permohonan Terjemahan / ڤرموهونن ترجمهن](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Glosari-Minecraft-untuk-Rumi-dan-Jawi#translation-requests--permohonan-terjemahan--ڤرموهونن-ترجمهن)
+> [General Technical Terms / Istilah Teknikal Am / ايستيله تيکنيکل عام](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Glosari-Minecraft-untuk-Rumi-dan-Jawi#general-technical-terms--istilah-teknikal-am--%D8%A7%D9%8A%D8%B3%D8%AA%D9%8A%D9%84%D9%87-%D8%AA%D9%8A%DA%A9%D9%86%D9%8A%DA%A9%D9%84-%D8%B9%D8%A7%D9%85)
 
----
+> [Translation Requests / Permohonan Terjemahan / ڤرموهونن ترجمهن](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Glosari-Minecraft-untuk-Rumi-dan-Jawi#translation-requests--permohonan-terjemahan--%DA%A4%D8%B1%D9%85%D9%88%D9%87%D9%88%D9%86%D9%86-%D8%AA%D8%B1%D8%AC%D9%85%D9%87%D9%86)
 
-## Special Minecraft Terms / Istilah Khas Minecraft / ايستيله خاص ماءينکرف‌ت
+***
 
-Source term (English) <br /> Istilah sumber (bahasa Inggeris) <br /> ايستيله سومبر (بهاس ايڠݢريس) | Source term (Rumi script) <br /> Istilah sumber (tulisan Rumi) <br /> ايستيله سومبر (توليسن رومي) | Target term (Jawi script) <br /> Istilah sasar (tulisan Jawi) <br /> ايستيله ساسر (توليسن جاوي)
-:--: | :--: | :--:
-Minecraft | Minecraft | ماءينکرف‌ت
-Minecraft: Dungeons | Minecraft: Dungeons | ماءينکرف‌ت: دنجن‌س
-Minecraft: Education | Minecraft: Education | ماءينکرف‌ت: ايدوکيشن |
-Minecraft: Legends | Minecraft: Legends | ماءينکرف‌ت: ليجن‌س |
-Java Edition | Edisi Java | ايديسي جاۏا
-Bedrock Edition | Edisi Bedrock | ايديسي بيدروک
-Mojang | Mojang | موجڠ
-Minecoin | Minecoin | ماءينکوين |
-Realm<br/>Realms | Realm<br/>Realms | ريل‌م<br/>ريل‌م‌س
-Overworld | Permukaan | ڤرموکاءن
-Nether | Nether | نيذر
-End | End | ءين‌د
-Creeper | Creeper | کريڤر
-Ender | Ender | ءيندر
-Enderman | Enderman | ءيندرمين
-Endermite | Endermite | ءيندرماءيت
-Evoker | Pawang | ڤاوڠ
-Ghast | Ghast | ݢس‌ت
-Mooshroom | Mooshroom | موشروم
-Shulker | Shulker | شلکر
-Piglin | Piglin | ڤيݢلين
-Hoglin | Hoglin | هوݢلين
-Zoglin | Zoglin | زوݢلين
-Vindicator | Pembela | ڤمبيلا
-Vex | Bajang | باجڠ
-Wither | Wither | ويذر
-Bad Omen | Badi | بادي
-Netherite | Netherit | نيذريت
-Netherrack | Netherrack | نيذريک
-Nylium | Nilium | نيليوم
-Prismarine | Prismarin | ڤريسمارين
-Purpur | Purpur | ڤرڤر
-Redstone | Redstone | ريدستون
-Sculk | Sculk | سکل‌ک
-Tipped Arrow | Anak Panah Disapu | انق ڤانه دساڤو
-Torchflower | Tepus Api | تڤوس اڤي
+### Special Minecraft Terms / Istilah Khas Minecraft / ايستيله خاص ماءينکرف‌ت
 
----
+| <p>Source term (English)<br>Istilah sumber (bahasa Inggeris)<br>ايستيله سومبر (بهاس ايڠݢريس)</p> | <p>Source term (Rumi script)<br>Istilah sumber (tulisan Rumi)<br>ايستيله سومبر (توليسن رومي)</p> | <p>Target term (Jawi script)<br>Istilah sasar (tulisan Jawi)<br>ايستيله ساسر (توليسن جاوي)</p> |
+| :----------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: |
+|                                             Minecraft                                            |                                             Minecraft                                            |                                           ماءينکرف‌ت                                           |
+|                                        Minecraft: Dungeons                                       |                                        Minecraft: Dungeons                                       |                                       ماءينکرف‌ت: دنجن‌س                                       |
+|                                       Minecraft: Education                                       |                                       Minecraft: Education                                       |                                      ماءينکرف‌ت: ايدوکيشن                                      |
+|                                        Minecraft: Legends                                        |                                        Minecraft: Legends                                        |                                       ماءينکرف‌ت: ليجن‌س                                       |
+|                                           Java Edition                                           |                                            Edisi Java                                            |                                           ايديسي جاۏا                                          |
+|                                          Bedrock Edition                                         |                                           Edisi Bedrock                                          |                                          ايديسي بيدروک                                         |
+|                                              Mojang                                              |                                              Mojang                                              |                                              موجڠ                                              |
+|                                             Minecoin                                             |                                             Minecoin                                             |                                            ماءينکوين                                           |
+|                                      <p>Realm<br>Realms</p>                                      |                                      <p>Realm<br>Realms</p>                                      |                                     <p>ريل‌م<br>ريل‌م‌س</p>                                    |
+|                                             Overworld                                            |                                             Permukaan                                            |                                            ڤرموکاءن                                            |
+|                                              Nether                                              |                                              Nether                                              |                                              نيذر                                              |
+|                                                End                                               |                                                End                                               |                                              ءين‌د                                             |
+|                                              Creeper                                             |                                              Creeper                                             |                                              کريڤر                                             |
+|                                               Ender                                              |                                               Ender                                              |                                              ءيندر                                             |
+|                                             Enderman                                             |                                             Enderman                                             |                                            ءيندرمين                                            |
+|                                             Endermite                                            |                                             Endermite                                            |                                           ءيندرماءيت                                           |
+|                                              Evoker                                              |                                              Pawang                                              |                                              ڤاوڠ                                              |
+|                                               Ghast                                              |                                               Ghast                                              |                                              ݢس‌ت                                              |
+|                                             Mooshroom                                            |                                             Mooshroom                                            |                                             موشروم                                             |
+|                                              Shulker                                             |                                              Shulker                                             |                                              شلکر                                              |
+|                                              Piglin                                              |                                              Piglin                                              |                                             ڤيݢلين                                             |
+|                                              Hoglin                                              |                                              Hoglin                                              |                                             هوݢلين                                             |
+|                                              Zoglin                                              |                                              Zoglin                                              |                                             زوݢلين                                             |
+|                                            Vindicator                                            |                                              Pembela                                             |                                             ڤمبيلا                                             |
+|                                                Vex                                               |                                              Bajang                                              |                                              باجڠ                                              |
+|                                              Wither                                              |                                              Wither                                              |                                              ويذر                                              |
+|                                             Bad Omen                                             |                                               Badi                                               |                                              بادي                                              |
+|                                             Netherite                                            |                                             Netherit                                             |                                             نيذريت                                             |
+|                                            Netherrack                                            |                                            Netherrack                                            |                                             نيذريک                                             |
+|                                              Nylium                                              |                                              Nilium                                              |                                             نيليوم                                             |
+|                                            Prismarine                                            |                                             Prismarin                                            |                                            ڤريسمارين                                           |
+|                                              Purpur                                              |                                              Purpur                                              |                                              ڤرڤر                                              |
+|                                             Redstone                                             |                                             Redstone                                             |                                             ريدستون                                            |
+|                                               Sculk                                              |                                               Sculk                                              |                                              سکل‌ک                                             |
+|                                           Tipped Arrow                                           |                                         Anak Panah Disapu                                        |                                         انق ڤانه دساڤو                                         |
+|                                            Torchflower                                           |                                             Tepus Api                                            |                                            تڤوس اڤي                                            |
 
-## General Loan Terms / Istilah Pinjaman Am / ايستيله ڤينجمن عام
+***
 
-Source term (English) <br /> Istilah sumber (bahasa Inggeris) <br /> ايستيله سومبر (بهاس ايڠݢريس) | Source term (Rumi script) <br /> Istilah sumber (tulisan Rumi) <br /> ايستيله سومبر (توليسن رومي) | Target term (Jawi script) <br /> Istilah sasar (tulisan Jawi) <br /> ايستيله ساسر (توليسن جاوي)
-:--: | :--: | :--:
-Azure Bluet | Azure Bluet | ايزور بلوءيت
-Basalt | Basalt | باسل‌ت
-Birch | Birch | برچ
-Bundle | Guni | ݢوني
-Cornflower | Cornflower | کورنفلاور
-Crimson | Kirmizi | کيرميزي
-Jigsaw | Suai-Jodoh | سواي-جودوه
-Lilac | Lilac | لايليک
-Peony | Peony | ڤيوني
-Poppy | Popi | ڤوڤي
-Shrub | Belukar | بلوکر
-TNT | TNT | ~~ترينيتروتولوينا~~<br/>**تي.عين.تي**
-Warped | Gila | ݢيلا
-Waterlog/Waterlogged<br />(example: Waterlogged Stairs) | Berair<br />(contoh: Tangga Berair) | براءير<br />(چونتوه: تڠݢ براءير)
-%s Double Slab | Papak Ganda %s | ڤاڤق ݢندا %s |
-Armor | Zirah | زيره
-Armor Trims | Hiasan Zirah | هياسن زيره
-Helmet | Ketopong | کتوڤوڠ
-Allay | Pepari | ڤڤاري
-Axolotl | Axolotl | اکزولوتل
-Blaze | Kemamang | کمامڠ
-Bogged | Lumutan | لوموتن 
-Breeze | Halimbubu | هاليمبوبو
-Drowned | Si Lemas | سي لمس
-Fox | Rubah | روبه
-Golem | Golem | ݢولم
-Husk | Mumia | موميا
-Illager | Orang Jahat | اورڠ جاهت 
-Nitwit | Orang Jahil | اورڠ جاهيل
-Slime | Lelendir | للندير
-Stray | Si Liar | سي ليار
-Warden | Penunggu | ڤنوڠݢو
-Character Creator | Pereka Watak | ڤريک واتق   
-Demo | Demo | ديمو
-Fabulous | Menawan | مناون
-Hardcore | Tegar | تݢر
-HYPERSPEED!!! | HIPERLAJU!!! | هيڤرلاجو!!!
-Lesson | Pelajaran | ڤلاجرن
-Marketplace | Pasar | ڤاسر
-Mash-up Pack | Pek Campuran | ڤيک چمڤورن |
-Ok | Ok | اوکي
-\*yawn\* | \*kuap\* | \*کواڤ\*
+### General Loan Terms / Istilah Pinjaman Am / ايستيله ڤينجمن عام
 
----
+| <p>Source term (English)<br>Istilah sumber (bahasa Inggeris)<br>ايستيله سومبر (بهاس ايڠݢريس)</p> | <p>Source term (Rumi script)<br>Istilah sumber (tulisan Rumi)<br>ايستيله سومبر (توليسن رومي)</p> | <p>Target term (Jawi script)<br>Istilah sasar (tulisan Jawi)<br>ايستيله ساسر (توليسن جاوي)</p> |
+| :----------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: |
+|                                            Azure Bluet                                           |                                            Azure Bluet                                           |                                          ايزور بلوءيت                                          |
+|                                              Basalt                                              |                                              Basalt                                              |                                             باسل‌ت                                             |
+|                                               Birch                                              |                                               Birch                                              |                                               برچ                                              |
+|                                              Bundle                                              |                                               Guni                                               |                                              ݢوني                                              |
+|                                            Cornflower                                            |                                            Cornflower                                            |                                            کورنفلاور                                           |
+|                                              Crimson                                             |                                              Kirmizi                                             |                                             کيرميزي                                            |
+|                                              Jigsaw                                              |                                            Suai-Jodoh                                            |                                           سواي-جودوه                                           |
+|                                               Lilac                                              |                                               Lilac                                              |                                             لايليک                                             |
+|                                               Peony                                              |                                               Peony                                              |                                              ڤيوني                                             |
+|                                               Poppy                                              |                                               Popi                                               |                                              ڤوڤي                                              |
+|                                               Shrub                                              |                                              Belukar                                             |                                              بلوکر                                             |
+|                                                TNT                                               |                                                TNT                                               |                 <p><del>ترينيتروتولوينا</del><br><strong>تي.عين.تي</strong></p>                |
+|                                              Warped                                              |                                               Gila                                               |                                              ݢيلا                                              |
+|                   <p>Waterlog/Waterlogged<br>(example: Waterlogged Stairs)</p>                   |                             <p>Berair<br>(contoh: Tangga Berair)</p>                             |                              <p>براءير<br>(چونتوه: تڠݢ براءير)</p>                             |
+|                                          %s Double Slab                                          |                                          Papak Ganda %s                                          |                                          ڤاڤق ݢندا %s                                          |
+|                                               Armor                                              |                                               Zirah                                              |                                              زيره                                              |
+|                                            Armor Trims                                           |                                           Hiasan Zirah                                           |                                           هياسن زيره                                           |
+|                                              Helmet                                              |                                             Ketopong                                             |                                             کتوڤوڠ                                             |
+|                                               Allay                                              |                                              Pepari                                              |                                              ڤڤاري                                             |
+|                                              Axolotl                                             |                                              Axolotl                                             |                                            اکزولوتل                                            |
+|                                               Blaze                                              |                                             Kemamang                                             |                                              کمامڠ                                             |
+|                                              Bogged                                              |                                              Lumutan                                             |                                             لوموتن                                             |
+|                                              Breeze                                              |                                             Halimbubu                                            |                                            هاليمبوبو                                           |
+|                                              Drowned                                             |                                             Si Lemas                                             |                                             سي لمس                                             |
+|                                                Fox                                               |                                               Rubah                                              |                                              روبه                                              |
+|                                               Golem                                              |                                               Golem                                              |                                              ݢولم                                              |
+|                                               Husk                                               |                                               Mumia                                              |                                              موميا                                             |
+|                                              Illager                                             |                                            Orang Jahat                                           |                                            اورڠ جاهت                                           |
+|                                              Nitwit                                              |                                            Orang Jahil                                           |                                           اورڠ جاهيل                                           |
+|                                               Slime                                              |                                             Lelendir                                             |                                             للندير                                             |
+|                                               Stray                                              |                                              Si Liar                                             |                                             سي ليار                                            |
+|                                              Warden                                              |                                             Penunggu                                             |                                             ڤنوڠݢو                                             |
+|                                         Character Creator                                        |                                           Pereka Watak                                           |                                            ڤريک واتق                                           |
+|                                               Demo                                               |                                               Demo                                               |                                              ديمو                                              |
+|                                             Fabulous                                             |                                              Menawan                                             |                                              مناون                                             |
+|                                             Hardcore                                             |                                               Tegar                                              |                                               تݢر                                              |
+|                                           HYPERSPEED!!!                                          |                                           HIPERLAJU!!!                                           |                                           هيڤرلاجو!!!                                          |
+|                                              Lesson                                              |                                             Pelajaran                                            |                                             ڤلاجرن                                             |
+|                                            Marketplace                                           |                                               Pasar                                              |                                              ڤاسر                                              |
+|                                           Mash-up Pack                                           |                                           Pek Campuran                                           |                                           ڤيک چمڤورن                                           |
+|                                                Ok                                                |                                                Ok                                                |                                              اوکي                                              |
+|                                             \*yawn\*                                             |                                             \*kuap\*                                             |                                            \*کواڤ\*                                            |
 
-## General Technical Terms / Istilah Teknikal Am / ايستيله تيکنيکل عام
+***
 
-Source term (English) <br /> Istilah sumber (bahasa Inggeris) <br /> ايستيله سومبر (بهاس ايڠݢريس) | Source term (Rumi script) <br /> Istilah sumber (tulisan Rumi) <br /> ايستيله سومبر (توليسن رومي) | Target term (Jawi script) <br /> Istilah sasar (tulisan Jawi) <br /> ايستيله ساسر (توليسن جاوي)
-:--: | :--: | :--:
-Anisotropic | Anisotropik | انيسوتروڤيک
-Antialiased | Diantialiaskan | دأنتيألياسکن
-Antialiasing | Antipengaliasan | انتيڤڠألياسن
-Boolean | Boolean | بوليئن
-Cascading | Melata | ملات
-Code Builder | Pembina Kod | ڤمبينا کود
-Cull | Sorok | سوروق |
-Debug | Antipepijat | انتيڤڤيجت
-Debug | Nyahpepijat | ڽهڤڤيجت
-Exponent | Eksponen | ايکسڤونن
-Framebuffer | Penimbal Kerangka | ڤنيمڤل کرڠک
-Hotbar | Palang Utama | ڤالڠ اوتام
-Immersive Mode | Mod Imersif | مود ايمرسيف
-Index | Indeks | اينديک‌س
-Input | Input | اينڤوت
-Minimap | Peta Mini | ڤتا ميني
-Mipmap | Mipmap | ميڤمڤ
-Occlusion | Oklusi | اوكلوسي
-Offset | Ofset | اوفسيت
-Output | Output | اءوتڤوت
-Overlay | Lembaran Atas<br/>Tindanan | لمبرن اتس<br/>تيندنن
-Parameter | Parameter | ڤاراميتر
-Pitch | Anggul | اڠݢول |
-Shader | Pembayang | ڤمبايڠ
-Tick | Detik | دتيق
-Waypoint | Titik Laluan | تيتيق لالوان | 
-Yaw | Rewang | ريواڠ |
-Blocks (Proper Noun) | Blocks | بلوک‌س
-Crowdin | Crowdin | کراءودين
-CurseForge | CurseForge | کرس‌فورج
-JavaScript | JavaScript | جاۏاسکريڤ‌ت
-Microsoft | Microsoft | مايکروسوف‌ت
-Modrinth | Modrinth | مودرين‌ث
-PlanetMinecraft | PlanetMinecraft | ڤلينيت‌ماءينکرف‌ت
-Python (Proper Noun) | Python | ڤاءيثن
-Twitch (Proper Noun) | Twitch | تويچ
-Unicode | Unikod | اونيکود
+### General Technical Terms / Istilah Teknikal Am / ايستيله تيکنيکل عام
 
-## Translation Requests / Permohonan Terjemahan / ڤرموهونن ترجمهن
+| <p>Source term (English)<br>Istilah sumber (bahasa Inggeris)<br>ايستيله سومبر (بهاس ايڠݢريس)</p> | <p>Source term (Rumi script)<br>Istilah sumber (tulisan Rumi)<br>ايستيله سومبر (توليسن رومي)</p> | <p>Target term (Jawi script)<br>Istilah sasar (tulisan Jawi)<br>ايستيله ساسر (توليسن جاوي)</p> |
+| :----------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: |
+|                                            Anisotropic                                           |                                            Anisotropik                                           |                                           انيسوتروڤيک                                          |
+|                                            Antialiased                                           |                                          Diantialiaskan                                          |                                          دأنتيألياسکن                                          |
+|                                           Antialiasing                                           |                                          Antipengaliasan                                         |                                          انتيڤڠألياسن                                          |
+|                                              Boolean                                             |                                              Boolean                                             |                                             بوليئن                                             |
+|                                             Cascading                                            |                                              Melata                                              |                                              ملات                                              |
+|                                           Code Builder                                           |                                            Pembina Kod                                           |                                           ڤمبينا کود                                           |
+|                                               Cull                                               |                                               Sorok                                              |                                             سوروق                                              |
+|                                               Debug                                              |                                            Antipepijat                                           |                                            انتيڤڤيجت                                           |
+|                                               Debug                                              |                                            Nyahpepijat                                           |                                             ڽهڤڤيجت                                            |
+|                                             Exponent                                             |                                             Eksponen                                             |                                            ايکسڤونن                                            |
+|                                            Framebuffer                                           |                                         Penimbal Kerangka                                        |                                           ڤنيمڤل کرڠک                                          |
+|                                              Hotbar                                              |                                           Palang Utama                                           |                                           ڤالڠ اوتام                                           |
+|                                          Immersive Mode                                          |                                            Mod Imersif                                           |                                           مود ايمرسيف                                          |
+|                                               Index                                              |                                              Indeks                                              |                                            اينديک‌س                                            |
+|                                               Input                                              |                                               Input                                              |                                             اينڤوت                                             |
+|                                              Minimap                                             |                                             Peta Mini                                            |                                            ڤتا ميني                                            |
+|                                              Mipmap                                              |                                              Mipmap                                              |                                              ميڤمڤ                                             |
+|                                             Occlusion                                            |                                              Oklusi                                              |                                             اوكلوسي                                            |
+|                                              Offset                                              |                                               Ofset                                              |                                             اوفسيت                                             |
+|                                              Output                                              |                                              Output                                              |                                             اءوتڤوت                                            |
+|                                              Overlay                                             |                                 <p>Lembaran Atas<br>Tindanan</p>                                 |                                   <p>لمبرن اتس<br>تيندنن</p>                                   |
+|                                             Parameter                                            |                                             Parameter                                            |                                            ڤاراميتر                                            |
+|                                               Pitch                                              |                                              Anggul                                              |                                              اڠݢول                                             |
+|                                              Shader                                              |                                             Pembayang                                            |                                             ڤمبايڠ                                             |
+|                                               Tick                                               |                                               Detik                                              |                                              دتيق                                              |
+|                                             Waypoint                                             |                                           Titik Laluan                                           |                                          تيتيق لالوان                                          |
+|                                                Yaw                                               |                                              Rewang                                              |                                              ريواڠ                                             |
+|                                       Blocks (Proper Noun)                                       |                                              Blocks                                              |                                             بلوک‌س                                             |
+|                                              Crowdin                                             |                                              Crowdin                                             |                                            کراءودين                                            |
+|                                            CurseForge                                            |                                            CurseForge                                            |                                            کرس‌فورج                                            |
+|                                            JavaScript                                            |                                            JavaScript                                            |                                           جاۏاسکريڤ‌ت                                          |
+|                                             Microsoft                                            |                                             Microsoft                                            |                                           مايکروسوف‌ت                                          |
+|                                             Modrinth                                             |                                             Modrinth                                             |                                            مودرين‌ث                                            |
+|                                          PlanetMinecraft                                         |                                          PlanetMinecraft                                         |                                        ڤلينيت‌ماءينکرف‌ت                                       |
+|                                       Python (Proper Noun)                                       |                                              Python                                              |                                             ڤاءيثن                                             |
+|                                       Twitch (Proper Noun)                                       |                                              Twitch                                              |                                              تويچ                                              |
+|                                              Unicode                                             |                                              Unikod                                              |                                             اونيکود                                            |
 
-Source term (English)<br />Istilah sumber (bahasa Inggeris)<br />ايستيله سومبر (بهاس ايڠݢريس) | Source term (Rumi script)<br />Istilah sumber (tulisan Rumi)<br />ايستيله سومبر (توليسن رومي) | Target term (Jawi script) <br /> Istilah sasar (tulisan Jawi) <br /> ايستيله ساسر (توليسن جاوي)
-:--: | :--: | :--: | 
-Gametest |  |  |
+### Translation Requests / Permohonan Terjemahan / ڤرموهونن ترجمهن
+
+| <p>Source term (English)<br>Istilah sumber (bahasa Inggeris)<br>ايستيله سومبر (بهاس ايڠݢريس)</p> | <p>Source term (Rumi script)<br>Istilah sumber (tulisan Rumi)<br>ايستيله سومبر (توليسن رومي)</p> | <p>Target term (Jawi script)<br>Istilah sasar (tulisan Jawi)<br>ايستيله ساسر (توليسن جاوي)</p> |
+| :----------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: |
+|                                             Gametest                                             |                                                                                                  |                                                                                                |
