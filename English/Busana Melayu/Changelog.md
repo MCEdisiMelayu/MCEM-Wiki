@@ -24,7 +24,7 @@ icon: scroll
 ## Busana Melayu v1.5 (31/8/2024) \[Java 1.7 - 1.21] \[NuruddinPlays]
 
 * Changed the diamond tengkolok texture to make the transition between diamond and netherite more seamless
-* Added the female's variant of the Malay attire (under the type **Busana (P)** in [the item name table](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Senjata---Busana-Melayu-CIT-Pack-%E2%80%90-Item-Table))
+* Added the female's variant of the Malay attire (under the type **Busana (P)** in [the item name table](../Senjata-+-Busana-Melayu-CIT-Pack-‐-Item-Table.md))
   * These are compatible with the [Senjata+Busana Melayu CIT Pack's](https://modrinth.com/resourcepack/senjata-busana-melayu-cit) implementation
   * Separate standalone versions containing only the female's variant (mainly for 1.20.5+) is available as an additional file on Modrinth
 * Added the credits file into the zip file

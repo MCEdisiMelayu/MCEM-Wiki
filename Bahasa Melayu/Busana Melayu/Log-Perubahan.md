@@ -20,11 +20,11 @@ icon: scroll
 
 ***
 
-v1.5 (31/8/2024)
+## v1.5 (31/8/2024) \[Java 1.7-1.21] \[NuruddinPlays]
 
 * Tekstur tengkolok berlian diubah untuk menjadikan peralihan antara berlian dan netherit lebih "seamless"
-* Varian busana Melayu wanita ditambah (di bawah jenis Busana (P) dalam jadual item)
-  * Ini serasi dengan pelaksanaan pek Senjata+Busana Melayu CIT Pack
+* Varian busana Melayu wanita ditambah (di bawah jenis Busana (P) dalam [jadual item](../../English/Senjata-+-Busana-Melayu-CIT-Pack-‐-Item-Table.md))
+  * Ini serasi dengan pelaksanaan pek [Senjata+Busana Melayu CIT Pack](https://modrinth.com/resourcepack/senjata-busana-melayu-cit)
   * Versi berasingan yang mengandungi hanya varian busana wanita tersedia sebagai fail tambahan di Modrinth
 * Fail penghargaan telah ditambah ke dalam fail zip
 * Ikon pek telah dikemas kini

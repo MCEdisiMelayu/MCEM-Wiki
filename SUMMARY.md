@@ -18,7 +18,7 @@
     * [Log Perubahan](<Bahasa Melayu/Busana Melayu/Log-Perubahan.md>)
     * [Masalah yang Diketahui](<Bahasa Melayu/Busana Melayu/Masalah-yang-Diketahui.md>)
   * [Penghargaan](<Bahasa Melayu/Penghargaan.md>)
-  * [Senjata + Busana Melayu CIT Pack - Jadual Item](https://app.gitbook.com/s/fpoGGeTnzHJeid2a2cdr/english/senjata-+-busana-melayu-cit-pack-item-table)
+  * [Senjata + Busana Melayu CIT Pack - Jadual Item](English/Senjata-+-Busana-Melayu-CIT-Pack-‐-Item-Table.md)
 * [🇬🇧 English](english/README.md)
   * [Download Pages](English/Download-Pages.md)
   * [Resource Pack Pairing](English/Pairing-Packs.md)
