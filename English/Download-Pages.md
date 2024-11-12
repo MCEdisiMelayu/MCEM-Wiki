@@ -1,6 +1,17 @@
 ---
-description: Links to download pages for all MCEM Packs
 icon: down
+description: Links to download pages for all MCEM Packs
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # Download Pages

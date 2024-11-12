@@ -1,8 +1,19 @@
 ---
 icon: hand-wave
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
-# README
+# Homepage
 
 <div align="center">
 
@@ -10,10 +21,4 @@ icon: hand-wave
 
 </div>
 
-### The Official Minecraft: Edisi Melayu Wiki
-
-### \[Choose Your Language] 
-
-#### [English](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Content) 
-
-#### [Bahasa Melayu](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Kandungan)
+## `The Official Minecraft: Edisi Melayu Wiki`

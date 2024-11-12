@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+---
+
 # 🇲🇾 Bahasa Melayu
 
 ![](https://imgur.com/0HxIaqK.png)
@@ -6,42 +20,38 @@
 
 ## \[Kandungan]
 
-### [Laman Utama](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Kandungan)
+### &#x20;[Laman Utama](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Kandungan)
 
 ### Umum
 
 * [Laman Sesawang Rasmi (Bahasa Melayu)](https://bit.ly/LamanWebMCEM)
 * [Tempat Melaporkan Pepijat](https://github.com/Minecraft-EdisiMelayu/MCEM-BugTracker)
-* [Glosari Minecraft untuk Rumi dan Jawi](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Glosari-Minecraft-untuk-Rumi-dan-Jawi)
+* [Glosari Minecraft untuk Rumi dan Jawi](<../Bahasa Melayu/Glosari-Minecraft-untuk-Rumi-dan-Jawi.md>)
 * [Pertubuhan di Modrinth](https://bit.ly/MCEM-Modrinth)
 * [MCEM di Twitter](https://twitter.com/MC\_EdisiMelayu)
 * [Pelayan Discord MCEM](https://bit.ly/MCEM-Discord)
 
 ### Pek Sumber
 
-* [Pautan Muat Turun](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Pautan-Muat-Turun-Pek)
-* [Penggandingan Pek](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/MCEM-%E2%80%90-Menggandingkan-Pek)
+* [Pautan Muat Turun](<../Bahasa Melayu/Pautan-Muat-Turun-Pek.md>)
+* [Penggandingan Pek](<../Bahasa Melayu/Menggandingkan Pek.md>)
 * JawiCraft Language Pack
-  * [Pemasangan](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Pek-Bahasa-JawiCraft-%E2%80%90-Pemasangan)
-  * [Pepijat](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Pek-Bahasa-JawiCraft-%E2%80%90-Pepijat)
+  * [Pemasangan](<../Bahasa Melayu/JawiCraft/Pemasangan.md>)
+  * [Log Perubahan](<../Bahasa Melayu/JawiCraft/Log Perubahan.md>)
+  * [Pepijat](<../Bahasa Melayu/JawiCraft/Pepijat.md>)
   * [Arkib](https://github.com/Minecraft-EdisiMelayu/Arkib-JawiCraft)
 * BetterMalay Language Pack
-  * [Pemasangan](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Pek-Bahasa-BetterMalay-%E2%80%90-Pemasangan)
-* Busana Melayu
-  * [Masalah yang Diketahui](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Busana-Melayu---Masalah-yang-Diketahui)
+  * [Pemasangan](<../Bahasa Melayu/BetterMalay/Pemasangan.md>)
+  * [Log Perubahan](<../Bahasa Melayu/BetterMalay/Log-Perubahan.md>)
+*   Senjata Melayu
+
+    * [Log Perubahan](<../Bahasa Melayu/Senjata Melayu/Log-Perubahan.md>)
+
+    Busana Melayu
+
+    * [Log Perubahan](<../Bahasa Melayu/Busana Melayu/Log-Perubahan.md>)
+    * [Masalah yang Diketahui](<../Bahasa Melayu/Busana Melayu/Masalah-yang-Diketahui.md>)
 * Senjata + Busana Melayu CIT Pack
-  * [Jadual Item](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Senjata---Busana-Melayu-CIT-Pack-%E2%80%90-Item-Table)
-
-### Log Perubahan
-
-* [JawiCraft Language Pack](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Pek-Bahasa-JawiCraft-%E2%80%90-Log-Perubahan)
-* [BetterMalay Language Pack](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Pek-Bahasa-BetterMalay-%E2%80%90-Log-Perubahan)
-* [Senjata Melayu](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Senjata-Melayu-%E2%80%90-Log-Perubahan)
-* [Busana Melayu](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Busana-Melayu---Log-Perubahan)
-* [Senjata+Busana Melayu - CIT Edition](https://modrinth.com/resourcepack/senjata-busana-melayu-cit/changelog)
+  * [Jadual Item](../English/Senjata-+-Busana-Melayu-CIT-Pack-‐-Item-Table.md)
 
 ### [Penghargaan](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/MCEM-%E2%80%90-Penghargaan)
-
-### Wiki ini dalam bahasa lain
-
-#### [English](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Content)
