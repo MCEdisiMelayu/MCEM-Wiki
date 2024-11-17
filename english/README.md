@@ -20,7 +20,7 @@ layout:
 
 ## \[Content]
 
-### [Home](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Content)
+### [Home](../)
 
 ### General
 

@@ -20,7 +20,7 @@ layout:
 
 ## \[Kandungan]
 
-### &#x20;[Laman Utama](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Kandungan)
+### &#x20;[Laman Utama](../)
 
 ### Umum
 
@@ -54,4 +54,4 @@ layout:
 * Senjata + Busana Melayu CIT Pack
   * [Jadual Item](../English/Senjata-+-Busana-Melayu-CIT-Pack-‐-Item-Table.md)
 
-### [Penghargaan](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/MCEM-%E2%80%90-Penghargaan)
+### [Penghargaan](<../Bahasa Melayu/Penghargaan.md>)

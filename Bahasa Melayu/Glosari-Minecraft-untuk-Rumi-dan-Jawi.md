@@ -4,23 +4,22 @@ hidden: true
 
 # Glosari Minecraft untuk Rumi dan Jawi
 
-Coming from the English wiki? [Use this link to go back when you're finished!](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Content)
-
 * Maintained by NuruddinPlays and Ahmad Ali Karim\
-  Originally hosted privately by Ahmad Ali Karim \[[Website](https://ahmadalikarim.com) / [Twitter/X](https://twitter.com/ahmadalikarim12)]\
-
+  Originally hosted privately by Ahmad Ali Karim \[[Website](https://ahmadalikarim.com) / [Twitter/X](https://twitter.com/ahmadalikarim12)]
 * Diselenggarakan oleh NuruddinPlays dan Ahmad Ali Karim\
   Asalnya dihoskan secara peribadi oleh Ahmad Ali Karim \[[Laman Web](https://ahmadalikarim.com) / [Twitter/X](https://twitter.com/ahmadalikarim12)]
 
 ***
 
-> [Special Minecraft Terms / Istilah Khas Minecraft / ايستيله خاص ماءينکرف‌ت](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Glosari-Minecraft-untuk-Rumi-dan-Jawi#special-minecraft-terms--istilah-khas-minecraft--%D8%A7%D9%8A%D8%B3%D8%AA%D9%8A%D9%84%D9%87-%D8%AE%D8%A7%D8%B5-%D9%85%D8%A7%D8%A1%D9%8A%D9%86%DA%A9%D8%B1%D9%81%D8%AA)
+[Special Minecraft Terms / Istilah Khas Minecraft / ايستيله خاص ماءينکرف‌ت](Glosari-Minecraft-untuk-Rumi-dan-Jawi.md#special-minecraft-terms-istilah-khas-minecraft-aystylh-khas-maaynkrf-t)
 
-> [General Loan Terms / Istilah Pinjaman Am / ايستيله ڤينجمن عام](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Glosari-Minecraft-untuk-Rumi-dan-Jawi#general-loan-terms--istilah-pinjaman-am--%D8%A7%D9%8A%D8%B3%D8%AA%D9%8A%D9%84%D9%87-%DA%A4%D9%8A%D9%86%D8%AC%D9%85%D9%86-%D8%B9%D8%A7%D9%85)
+[General Loan Terms / Istilah Pinjaman Am / ايستيله ڤينجمن عام](Glosari-Minecraft-untuk-Rumi-dan-Jawi.md#general-loan-terms-istilah-pinjaman-am-aystylh-ynjmn-aam)
 
-> [General Technical Terms / Istilah Teknikal Am / ايستيله تيکنيکل عام](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Glosari-Minecraft-untuk-Rumi-dan-Jawi#general-technical-terms--istilah-teknikal-am--%D8%A7%D9%8A%D8%B3%D8%AA%D9%8A%D9%84%D9%87-%D8%AA%D9%8A%DA%A9%D9%86%D9%8A%DA%A9%D9%84-%D8%B9%D8%A7%D9%85)
+[General Technical Terms / Istilah Teknikal Am / ايستيله تيکنيکل عام](Glosari-Minecraft-untuk-Rumi-dan-Jawi.md#general-technical-terms-istilah-teknikal-am-aystylh-tyknykl-aam)
 
-> [Translation Requests / Permohonan Terjemahan / ڤرموهونن ترجمهن](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Glosari-Minecraft-untuk-Rumi-dan-Jawi#translation-requests--permohonan-terjemahan--%DA%A4%D8%B1%D9%85%D9%88%D9%87%D9%88%D9%86%D9%86-%D8%AA%D8%B1%D8%AC%D9%85%D9%87%D9%86)
+[Translation Requests / Permohonan Terjemahan / ڤرموهونن ترجمهن](Glosari-Minecraft-untuk-Rumi-dan-Jawi.md#translation-requests-permohonan-terjemahan-rmwhwnn-trjmhn)
+
+
 
 ***
 
@@ -126,7 +125,7 @@ Coming from the English wiki? [Use this link to go back when you're finished!](h
 |                                              Boolean                                             |                                              Boolean                                             |                                             بوليئن                                             |
 |                                             Cascading                                            |                                              Melata                                              |                                              ملات                                              |
 |                                           Code Builder                                           |                                            Pembina Kod                                           |                                           ڤمبينا کود                                           |
-|                                               Cull                                               |                                               Sorok                                              |                                             سوروق                                              |
+|                                               Cull                                               |                                               Sorok                                              |                                              سوروق                                             |
 |                                               Debug                                              |                                            Antipepijat                                           |                                            انتيڤڤيجت                                           |
 |                                               Debug                                              |                                            Nyahpepijat                                           |                                             ڽهڤڤيجت                                            |
 |                                             Exponent                                             |                                             Eksponen                                             |                                            ايکسڤونن                                            |
