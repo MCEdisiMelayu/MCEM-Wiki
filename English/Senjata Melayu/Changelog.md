@@ -4,6 +4,20 @@ icon: scroll
 
 # Changelog
 
+## v1.4 (15/2/2025) \[Java 1.7 - 1.21 & Bedrock]
+
+* Changed the texture of empty slot icons for sword and axe into keris and parang respectively
+* Added more strings to the language files to replace any mentions of sword and axe into keris and parang respectively
+* Renamed `Machete` to `Parang` for English languages
+* \[Java] Changed the hotbar attack indicator texture into a golden keris (1.20.2+ Only)
+* \[Java] Readded the old keris texture via CIT (rename a keris to a " Old Keris"/"Keris Lama " to see it)
+* \[Java] Updated the pack to support 1.21.4
+* \[Bedrock] Added an in-game pack settings slider
+  * Used for when you are also using the Busana Melayu resource pack and have this pack above it to change all the the icons in the smithing table
+  * The pack credits are also shown in the settings window
+* \[Bedrock] The "Keris Only" pack are no longer provided
+* Resized all pack icons from 1080x1080 to 512x512 to reduce file size
+
 ## v1.3 (31/8/2024) \[Java 1.7 - 1.21 & Bedrock]
 
 * Changed the keris texture to the new one, thanks to flurrry for the base texture

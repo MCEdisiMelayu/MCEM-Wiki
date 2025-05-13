@@ -4,6 +4,23 @@ icon: scroll
 
 # Changelog
 
+## v1.11.2 Hotfix (14/3/2025) \[1.20 - 1.21]
+
+* Removed all post-1.19.2 strings from the zlm\_arab.json file, as the Jawi Malay translations are now always up-to-date across all versions after 1.19.2
+
+## v1.11.1 (21/2/2025) \[1.7 - 1.21]
+
+* Fixed Jawi translations of Deep Lukewarm Ocean biome name (slight typo) and the `Armor Toughness` text (previously accidentally translated as just `Armor`)
+* \[1.13+] Updated base translation file to 25w08a
+* \[1.13-1.19] Added the entire ms\_my.json file from BetterMalay, so the Rumi Malay translations are guaranteed to be up-to-date
+* \[1.20+] Removed the glyph\_size.bin and unicode\_page\_xx.png files as those files went unused since 1.20, and since then the three-quarter high hamza now show up properly in-game without the glyph edits
+* \[1.20+] Removed all post-1.19.2 strings from the ms\_my.json file, as the Rumi Malay translations are now always up-to-date across all versions after 1.19.2
+* \[1.20+] Updated the credits to be based on the 1.21.4 revision
+* \[1.21+] Renamed "Creator (Music Box)" disc name to "Creator (Kotak Muzik/کوتق موزيک)"
+  * According to the glossary the "Music Box" portion of the disc name is translatable
+* Updated the pack to support 1.21.4
+* Resized all pack icons from 1080x1080 to 512x512 to reduce file size
+
 ## v1.11 (31/8/2024) \[1.7 - 1.21]
 
 * Fixed many errors in the language files, which means that the files should work now!
@@ -218,7 +235,7 @@ Happy Birthday JawiCraft! (this pack was released a year ago, on August 31st 202
 
 ### v1.6 - Major Update #1 \[1.6-1.18] (2/12/2021)
 
-\-Project now updated to the 1.18 release
+-Project now updated to the 1.18 release
 
 * Translation Updates
 * Base translations for version 1.13 - 1.18 is now updated to the 1.18 pre-5 translations

@@ -4,6 +4,20 @@ icon: scroll
 
 # Log Perubahan
 
+## v1.4 (15/2/2025) \[Java 1.7 - 1.21 & Bedrock]
+
+* Tekstur slot kosong untuk pedang dan kapak masing-masing telah diubah kepada keris dan parang
+* Lebih banyak string telah ditambah ke dalam fail bahasa untuk menukar sebarang sebutan untuk pedang dan kapak kepada keris dan parang
+* Dalam terjemahan bahasa Inggeris, `Machete` telah ditukar kepada `Parang`
+* Tekstur penunjuk serangan pada palang utama telah diubah kepada keris emas (1.20.2+ sahaja)
+* \[Java] Tekstur keris lama telah ditambahkan semula menerusi CIT (namakan semula keris menjadi " Old Keris"/"Keris Lama " untuk melihatnya)
+* \[Java] Pek dikemas kini untuk menyokong 1.21.4
+* \[Bedrock] Ditambah gelangsar tetapan pek dalam permainan
+  * Digunakan apabila anda juga menggunakan pek sumber Busana Melayu dan pek ini diletak di atasnya untuk menukar semua ikon dalam blok pertukangan besi
+  * Penghargaan pek juga dipaparkan dalam tetingkap tetapan
+* \[Bedrock] Pek "Keris Only" sudah tidak lagi disediakan
+* Saiz ikon pek telah dikecilkan daripada 1080x1080 kepada 512x512 untuk mengurangkan saiz fail
+
 ## v1.3 (31/8/2024) \[Java 1.7 - 1.21 & Bedrock]
 
 * Tekstur keris telah diperbaharui, terima kasih kepada flurrry untuk tekstur asas

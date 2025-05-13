@@ -28,13 +28,12 @@ layout:
 * [Bug Tracker](https://github.com/Minecraft-EdisiMelayu/MCEM-BugTracker)
 * [Minecraft Malay Glossary](<../Bahasa Melayu/Glosari-Minecraft-untuk-Rumi-dan-Jawi.md>)
 * [Modrinth Organisation](https://bit.ly/MCEM-Modrinth)
-* [MCEM on Twitter](https://twitter.com/MC\_EdisiMelayu)
+* [MCEM on Twitter](https://twitter.com/MC_EdisiMelayu)
 * [MCEM Discord Server](https://bit.ly/MCEM-Discord)
 
 ### Resource Packs
 
 * [Download Pages](../English/Download-Pages.md)
-* [Pairing Packs](../English/Pairing-Packs.md)
 * JawiCraft Language Pack
   * [Installation](../English/JawiCraft/Installation.md)
   * [Changelog](../English/JawiCraft/Changelog.md)
@@ -48,7 +47,17 @@ layout:
 * Busana Melayu
   * [Changelog](<../English/Busana Melayu/Changelog.md>)
   * [Known Problems](<../English/Busana Melayu/Known-Problems.md>)
-* Senjata + Busana Melayu CIT Pack
-  * [Item Table](../English/Senjata-+-Busana-Melayu-CIT-Pack-‐-Item-Table.md)
+*   Senjata + Busana Melayu CIT Pack
 
-### [Credits](../English/Credits.md)
+    * [Item Table](senjata-+-busana-melayu-cit-pack/item-table.md)
+    * [Changelog](senjata-+-busana-melayu-cit-pack/changelog.md)
+
+
+
+    ## Mods
+
+    * Peranggu Pahlawan
+      * [Installation](peranggu-pahlawan/installation.md)
+      * [Changelog](peranggu-pahlawan/changelog.md)
+
+## [Credits](../English/Credits.md)

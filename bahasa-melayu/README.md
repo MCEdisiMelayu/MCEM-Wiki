@@ -28,13 +28,12 @@ layout:
 * [Tempat Melaporkan Pepijat](https://github.com/Minecraft-EdisiMelayu/MCEM-BugTracker)
 * [Glosari Minecraft untuk Rumi dan Jawi](<../Bahasa Melayu/Glosari-Minecraft-untuk-Rumi-dan-Jawi.md>)
 * [Pertubuhan di Modrinth](https://bit.ly/MCEM-Modrinth)
-* [MCEM di Twitter](https://twitter.com/MC\_EdisiMelayu)
+* [MCEM di Twitter](https://twitter.com/MC_EdisiMelayu)
 * [Pelayan Discord MCEM](https://bit.ly/MCEM-Discord)
 
 ### Pek Sumber
 
-* [Pautan Muat Turun](<../Bahasa Melayu/Pautan-Muat-Turun-Pek.md>)
-* [Penggandingan Pek](<../Bahasa Melayu/Menggandingkan Pek.md>)
+* [Pautan Muat Turun](pautan-muat-turun.md)
 * JawiCraft Language Pack
   * [Pemasangan](<../Bahasa Melayu/JawiCraft/Pemasangan.md>)
   * [Log Perubahan](<../Bahasa Melayu/JawiCraft/Log Perubahan.md>)
@@ -52,6 +51,13 @@ layout:
     * [Log Perubahan](<../Bahasa Melayu/Busana Melayu/Log-Perubahan.md>)
     * [Masalah yang Diketahui](<../Bahasa Melayu/Busana Melayu/Masalah-yang-Diketahui.md>)
 * Senjata + Busana Melayu CIT Pack
-  * [Jadual Item](../English/Senjata-+-Busana-Melayu-CIT-Pack-‐-Item-Table.md)
+  * [Jadual Item](../english/senjata-+-busana-melayu-cit-pack/item-table.md)
+  * [Log Perubahan](senjata-+-busana-melayu-cit-pack/log-perubahan.md)
+
+## Mod
+
+* Peranggu Pahlawan
+  * [Pemasangan](peranggu-pahlawan/pemasangan.md)
+  * [Log Perubahan](peranggu-pahlawan/log-perubahan.md)
 
 ### [Penghargaan](<../Bahasa Melayu/Penghargaan.md>)

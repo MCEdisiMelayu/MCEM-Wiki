@@ -4,6 +4,22 @@ icon: scroll
 
 # Changelog
 
+## v1.2.2 Hotfix (14/3/2025) \[1.20-1.21]
+
+* Removed all post-1.19.2 strings from the ms\_my.json file, as the Rumi Malay translations are now always up-to-date across all versions after 1.19.2
+
+## v1.2.1 (21/2/2025) \[1.13-1.21]
+
+* \[1.13+] Updated base translation file to 25w08a
+* \[1.13-1.19] Added the entire zlm\_arab.json file from JawiCraft, so the Jawi Malay translations are guaranteed to be up-to-date
+* \[1.19+] Fixed Jawi translations of Deep Lukewarm Ocean biome name (slight typo) and the `Armor Toughness` text (previously accidentally translated as just `Armor`) (taken from JawiCraft)
+* \[1.20+] Removed all post-1.19.2 strings from the zlm\_arab.json file, as the Jawi Malay translations are now always up-to-date across all versions after 1.19.2
+* \[1.20+] Updated the credits to be based on the 1.21.4 revision
+* \[1.21+] Renamed "Creator (Music Box)" disc name to "Creator (Kotak Muzik/کوتق موزيک)"
+  * According to the glossary the "Music Box" portion of the disc name is translatable
+* Fixed the BetterMalay's credits section title being displayed as "JawiCraft Language Pack"
+* Updated the pack to support 1.21.4
+
 ## v1.2 (31/8/2024) \[1.6 - 1.21]
 
 * Fixed many errors in the language files, which means that the files should work now!

@@ -2,7 +2,23 @@
 icon: scroll
 ---
 
-# Log-Perubahan
+# Log Perubahan
+
+## v1.2.2 Hotfix (14/3/2025) \[1.20-1.21]
+
+* Semua string 1.19.2 dan ke atas telah dihapus dari fail ms\_my.json, kerana terjemahan bahasa Melayu Rumi kini sentiasa dikemas kini untuk semua versi selepas 1.19.2
+
+## v1.2.1 (21/2/2025) \[1.13-1.21]
+
+* \[1.13+] Fail terjemahan asas dikemas kini kepada versi 25w08a
+* \[1.13-1.19] Fail penuh zlm\_arab.json daripada pek JawiCraft telah ditambah bagi memastikan terjemahan bahasa Melayu Jawi sentiasa dikemas kini
+* \[1.19+] Terjemahan tulisan Jawi untuk nama biome Deep Lukewarm Ocean (typo kecil) dan teks کتاهنن زيره (dahulu diterjemah sebagai زيره sahaja) telah diperbaiki (diambil dari pek JawiCraft)
+* \[1.20+] Semua string 1.19.2 dan ke atas telah dihapus dari fail zlm\_arab.json, kerana terjemahan bahasa Melayu Jawi kini sentiasa dikemas kini untuk semua versi selepas 1.19.2
+* \[1.20+] Penghargaan dikemas kini untuk menggunakan revisi 1.21.4
+* \[1.21+] Nama cakera "Creator (Music Box)" telah dinamakan semula kepada "Creator (Kotak Muzik/کوتق موزيک)"
+  * Menurut glosari "Music Box" dalam nama cakera ini boleh diterjemah
+* Tajuk bahagian penghargaan BetterMalay telah diperbaiki (dahulunya dipaparkan sebagai "JawiCraft Language Pack"
+* Pek dikemas kini untuk menyokong 1.21.4
 
 ## v1.2 (31/8/2024) \[1.6 - 1.21]
 

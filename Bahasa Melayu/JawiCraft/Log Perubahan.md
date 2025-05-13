@@ -4,6 +4,23 @@ icon: scroll
 
 # Log Perubahan
 
+## v1.11.2 Hotfix (14/3/2025) \[1.20 - 1.21]
+
+* Semua string 1.19.2 dan ke atas telah dihapus dari fail zlm\_arab.json, kerana terjemahan bahasa Melayu Jawi kini sentiasa dikemas kini untuk semua versi selepas 1.19.2
+
+## v1.11.1 (21/2/2025) \[1.7 - 1.21]
+
+* Terjemahan tulisan Jawi untuk nama biome Deep Lukewarm Ocean (typo kecil) dan teks `کتاهنن زيره` (dahulu diterjemah sebagai `زيره` sahaja) telah diperbaiki
+* \[1.13+] Fail terjemahan asas dikemas kini kepada versi 25w08a
+* \[1.13-1.19] Fail penuh ms\_my.json daripada pek BetterMalay telah ditambah bagi memastikan terjemahan bahasa Melayu Rumi sentiasa dikemas kini
+* \[1.20+] Fail glyph\_size.bin dan unicode\_page\_xx.png telah dihapus memandangkan ia sudah tidak lagi digunakan sejak 1.20, dan sejak dari itu juga hamzah tiga suku kini dipaparkan dalam permainan dengan betul tanpa pembetulan yang disediakan pek ini
+* \[1.20+] Semua string 1.19.2 dan ke atas telah dihapus dari fail ms\_my.json, kerana terjemahan bahasa Melayu Rumi kini sentiasa dikemas kini untuk semua versi selepas 1.19.2
+* \[1.20+] Penghargaan dikemas kini untuk menggunakan revisi 1.21.4
+* \[1.21+] Nama cakera "Creator (Music Box)" telah dinamakan semula kepada "Creator (Kotak Muzik/کوتق موزيک)"
+  * &#x20;Menurut glosari "Music Box" dalam nama cakera ini boleh diterjemah
+* Pek dikemas kini untuk menyokong 1.21.4
+* Semua ikon pek telah dikecilkan daripada 1080x1080 kepada 512x512 untuk mengurangkan saiz fail
+
 ## v1.11 (31/8/2024) \[1.7 - 1.21]
 
 * Banyak ralat dalam fail bahasa telah diperbaiki, yang bermaksud bahawa fail-fail harus seharusnya telah berfungsi semula
