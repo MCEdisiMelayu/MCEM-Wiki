@@ -4,7 +4,7 @@ icon: wrench
 
 # Pemasangan
 
-1. Muat turun pek sumber sama ada dari [Modrinth](https://modrinth.com/resourcepack/jawicraft-language-pack)
+1. Muat turun pek sumber dari [Modrinth](https://modrinth.com/resourcepack/jawicraft-language-pack)
 2. Pergi ke Minecraft > Tetapan/Option > Pek Sumber/Resource Pack > Buka Folder Pek/Open Pack Folder
 3. Copy/Cut dan Paste pek sumber yang dimuat turun ke folder yang baru saja dibuka
 4. Kembali ke Minecraft, dan pek \[1.xx.x] JawiCraft Language Pack v1.x akan muncul, pilih dan tekan Selesai/Done
