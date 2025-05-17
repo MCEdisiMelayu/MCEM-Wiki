@@ -27,7 +27,7 @@ icon: scroll
   * Tekstur keris lama kini boleh didapati di bawah nama berikut: \[Material] Old Keris / Keris Lama \[Bahan]
 * \[SM] Tekstur parang diubah untuk mengeluarkan tompokan emas pada pemegang
 * \[BM] Tekstur tengkolok berlian diubah untuk menjadikan peralihan antara berlian dan netherit lebih "seamless"
-* \[BM] Varian Busana Melayu perempuan ditambah (di bawah jenis Busana (P) dalam [jadual nama item](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Senjata---Busana-Melayu-CIT-Pack-%E2%80%90-Item-Table))
+* \[BM] Varian Busana Melayu perempuan ditambah (di bawah jenis Busana (P) dalam [jadual nama item](../../english/senjata-+-busana-melayu-cit-pack/item-table.md))
   * Ini serasi dengan pelaksanaan pek Busana Melayu asal
 * Untuk nama bahasa Inggeris, nama yang digunakan untuk mendapatkan tekstur Baju lelaki telah ditukar daripada "\[Material] Baju" kepada "\[Material] Baju Melayu"
   * Ini adalah untuk menyelesaikan konflik antara nama CIT ini dan nama CIT "\[Material] Baju Kurung" yang digunakan oleh varian busana perempuan

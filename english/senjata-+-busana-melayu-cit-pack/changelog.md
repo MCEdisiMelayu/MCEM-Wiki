@@ -26,7 +26,7 @@ icon: scroll
   * The old keris texture is now available under the following name: \[Material] Old Keris / Keris Lama \[Bahan]
 * \[SM] Changed the machete texture to remove the gold patches on the handles
 * \[BM] Changed the diamond tengkolok texture to make the transition between diamond and netherite more seamless
-* \[BM] Added the female's variant of the Malay attire (under the type **Busana (P)** in [the item name table](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Senjata---Busana-Melayu-CIT-Pack-%E2%80%90-Item-Table))
+* \[BM] Added the female's variant of the Malay attire (under the type **Busana (P)** in [the item name table](item-table.md))
   * These are compatible with the main Busana Melayu pack's implementation
 * Changed the name used to get the men's Baju texture from "\[Material] Baju" to "\[Material] Baju Melayu"
   * This is to resolve the conflict between this and the "\[Material] Baju Kurung" CIT names used by the female variant
