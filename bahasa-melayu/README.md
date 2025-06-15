@@ -57,7 +57,8 @@ layout:
 ## Mod
 
 * Peranggu Pahlawan
-  * [Pemasangan](peranggu-pahlawan/pemasangan-edisi-java.md)
-  * [Log Perubahan](peranggu-pahlawan/log-perubahan-edisi-java.md)
+  * [Pemasangan](peranggu-pahlawan/pemasangan-edisi-java.md) (Edisi Java)
+  * [Log Perubahan](peranggu-pahlawan/log-perubahan-edisi-java.md) (Edisi Java)
+  * [Log Perubahan](peranggu-pahlawan/log-perubahan-edisi-bedrock.md) (Edisi Bedrock)
 
 ### [Penghargaan](<../Bahasa Melayu/Penghargaan.md>)
