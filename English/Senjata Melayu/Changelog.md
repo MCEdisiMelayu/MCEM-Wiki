@@ -1,8 +1,27 @@
 ---
+description: Changelogs for all Senjata Melayu versions
 icon: scroll
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # Changelog
+
+## v1.4.1 (8/6/2025) \[Java 1.7 - 1.21 & Bedrock]
+
+#### Very minor update this time
+
+* \[Java 1.6-1.12] Removed the old keris' CIT definition for the non-existent netherite variant
+* Updated the credits text file
 
 ## v1.4 (15/2/2025) \[Java 1.7 - 1.21 & Bedrock]
 

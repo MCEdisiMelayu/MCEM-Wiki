@@ -1,5 +1,17 @@
 ---
+description: Log perubahan untuk semua versi JawiCraft Language Pack
 icon: scroll
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # Log Perubahan
@@ -47,8 +59,6 @@ icon: scroll
 ***
 
 ## v1.9 (15/12/2023) \[1.7 - 1.20]
-
-## JawiCraft Language Pack v1.9 (15/12/2023) \[1.7-1.20]
 
 * Terbitan Modrinth pertama!
 * Ditukar kod bahasa daripada `ms_arab_my` kepada `zlm_arab`, jadi ia akan cross-compatible antara versi sebelum dan selepas 1.19

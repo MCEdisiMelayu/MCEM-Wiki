@@ -1,8 +1,26 @@
 ---
+description: Changelogs for all Senjata + Busana Melayu - CIT Pack versions
 icon: scroll
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # Changelog
+
+## Release 3.1 (8/6/2025) \[Java 1.12.2, 1.20.1-1.20.4, 1.21-1.21.1]
+
+* Added Indonesian name options in the CIT
+  * Only for item whose name is different from the Malay name (Tengkuluk instead of Tengkolok, Celana Melayu instead of Seluar Melayu...)
+* Updated the credits text file
 
 ## Release 3 (15/2/2025) \[Java 1.12, 1.20 - 1.20.4, 1.21-1.21.1]
 

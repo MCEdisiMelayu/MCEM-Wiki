@@ -1,5 +1,17 @@
 ---
+description: All known bugs that can be found when using JawiCraft Language Pack
 icon: xmark
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # Bugs

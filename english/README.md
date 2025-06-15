@@ -57,7 +57,8 @@ layout:
     ## Mods
 
     * Peranggu Pahlawan
-      * [Installation](peranggu-pahlawan/installation.md)
-      * [Changelog](peranggu-pahlawan/changelog.md)
+      * [Installation](peranggu-pahlawan/installation-java-edition.md) (Java Edition)
+      * [Changelog](peranggu-pahlawan/changelog-java-edition.md) (Java Edition)
+      * [Changelog](peranggu-pahlawan/changelog-bedrock-edition.md) (Bedrock Edition)
 
 ## [Credits](../English/Credits.md)

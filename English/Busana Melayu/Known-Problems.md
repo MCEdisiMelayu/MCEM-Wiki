@@ -1,5 +1,17 @@
 ---
+description: All known problems that can be seen when using the Busana Melayu resource pack
 icon: xmark
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # Known Problems

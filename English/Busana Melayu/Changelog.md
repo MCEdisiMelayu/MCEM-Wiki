@@ -1,8 +1,25 @@
 ---
+description: Changelogs for all Busana Melayu versions
 icon: scroll
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # Changelog
+
+## v1.6.2 (8/6/2025) \[Java 1.6 - 1.21 & Bedrock]
+
+* Updated Indonesian translations! Thanks to Dustin945!
+* Updated the credits text file
 
 ## v1.6.1 (27/3/2025) \[Java 1.13 - 1.21 & Bedrock; Male Variant Only] \[NuruddinPlays]
 

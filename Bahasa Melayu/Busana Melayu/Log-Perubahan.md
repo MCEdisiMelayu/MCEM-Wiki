@@ -1,8 +1,25 @@
 ---
+description: Log perubahan untuk semua versi Busana Melayu
 icon: scroll
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # Log Perubahan
+
+## v1.6.2 (8/6/2025) \[Java 1.6 - 1.21 & Bedrock]
+
+* Terjemahan bahasa Indonesia telah dikemas kini. Terima kasih Dustin945!
+* Fail penghargaan telah dikemas kini
 
 ## v1.6.1 (27/3/2025) \[Java 1.13 - 1.21 & Bedrock; Male Variant Only] \[NuruddinPlays]
 

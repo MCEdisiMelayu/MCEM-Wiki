@@ -1,5 +1,17 @@
 ---
+description: Log perubahan untuk semua versi BetterMalay Language Pack
 icon: scroll
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # Log Perubahan

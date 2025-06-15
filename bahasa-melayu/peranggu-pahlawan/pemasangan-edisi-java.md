@@ -1,8 +1,20 @@
 ---
+description: Tutorial pemasangan mod Peranggu Pahlawan (Edisi Java)
 icon: wrench
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
-# Pemasangan
+# Pemasangan (Edisi Java)
 
 ## Mod yang disarankan untuk digunakan bersama mod Peranggu Pahlawan <a href="#modrinth-app" id="modrinth-app"></a>
 

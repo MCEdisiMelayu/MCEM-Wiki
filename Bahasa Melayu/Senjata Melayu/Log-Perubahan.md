@@ -1,8 +1,27 @@
 ---
+description: Log perubahan untuk semua versi Senjata Melayu
 icon: scroll
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # Log Perubahan
+
+## v1.4.1 (8/6/2025) \[Java 1.7 - 1.21 & Bedrock]
+
+#### Kemas kini yang sangat kecil kali ini
+
+* \[Java 1.6-1.12] Definisi CIT keris lama untuk varian netherit yang tidak wujud telah dikeluarkan
+* Fail penghargaan telah dikemas kini
 
 ## v1.4 (15/2/2025) \[Java 1.7 - 1.21 & Bedrock]
 

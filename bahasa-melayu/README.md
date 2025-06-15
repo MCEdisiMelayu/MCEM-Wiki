@@ -57,7 +57,7 @@ layout:
 ## Mod
 
 * Peranggu Pahlawan
-  * [Pemasangan](peranggu-pahlawan/pemasangan.md)
-  * [Log Perubahan](peranggu-pahlawan/log-perubahan.md)
+  * [Pemasangan](peranggu-pahlawan/pemasangan-edisi-java.md)
+  * [Log Perubahan](peranggu-pahlawan/log-perubahan-edisi-java.md)
 
 ### [Penghargaan](<../Bahasa Melayu/Penghargaan.md>)

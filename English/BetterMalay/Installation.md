@@ -1,5 +1,17 @@
 ---
+description: The installation tutorial for BetterMalay Language Pack
 icon: wrench
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # Installation

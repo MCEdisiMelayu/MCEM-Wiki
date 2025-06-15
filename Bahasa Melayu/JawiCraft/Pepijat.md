@@ -1,5 +1,17 @@
 ---
+description: Semua pepijat yang sudah diketahui ketika menggunakan JawiCraft Language Pack
 icon: xmark
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # Pepijat

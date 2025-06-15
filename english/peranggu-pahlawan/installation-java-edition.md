@@ -1,8 +1,20 @@
 ---
+description: The installation tutorial for Peranggu Pahlawan Java Edition mod
 icon: wrench
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
-# Installation
+# Installation (Java Edition)
 
 ## Recommended modpack to use with the Peranggu Pahlawan mod <a href="#modrinth-app" id="modrinth-app"></a>
 

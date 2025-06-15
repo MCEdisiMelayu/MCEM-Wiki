@@ -1,8 +1,26 @@
 ---
+description: Log perubahan untuk semua versi Senjata + Busana Melayu - CIT Pack
 icon: scroll
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # Log Perubahan
+
+## Release 3.1 (8/6/2025) \[Java 1.12.2, 1.20.1-1.20.4, 1.21-1.21.1]
+
+* Pilihan nama untuk bahasa Indonesia telah ditambahkan ke dalam CIT
+  * Hanya untuk item yang namanya berbeza dengan nama dalam bahasa Melayu (Tengkuluk bukannya Tengkolok, Celana Melayu bukannya Seluar Melayu...)
+* Fail penghargaan telah dikemas kini
 
 ## Release 3 (15/2/2025) \[Java 1.12, 1.20 - 1.20.4, 1.21-1.21.1]
 
