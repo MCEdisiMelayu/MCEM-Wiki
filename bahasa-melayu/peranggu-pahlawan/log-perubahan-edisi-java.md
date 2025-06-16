@@ -26,7 +26,7 @@ layout:
 * \[1.21.1] Tag item `keris` dan `parang`&#x20;
 * \[1.20.1] Penambahan semua tag item dari versi mod untuk 1.21.1
 
-### Changes
+### Perubahan
 
 * Parang kini mempunyai kebolehan istimewa! Ia kini boleh melombong kayu balak dalam kawasan 3x3
   * Kelajuan perlombongan parang kini telah dikurangkan dengan ketara untuk menjadikannya tidak terlalu op tanpa sihir Kecekapan/Efficiency
