@@ -30,14 +30,14 @@ layout:
 
 * Parang kini mempunyai kebolehan istimewa! Ia kini boleh melombong kayu balak dalam kawasan 3x3
   * Kelajuan perlombongan parang kini telah dikurangkan dengan ketara untuk menjadikannya tidak terlalu op tanpa sihir Kecekapan/Efficiency
-  *    Fungsi pemecahan blok 3x3 baharu hanya terpakai pada blok-blok seperti kayu, kayu balak, batang kirmizi dan gila, hifa kirmizi dan gila serta dengan varian yang dikupas kulit), dan bukan sebarang blok kayu lain (papan, papak, tangga dll.)
+  *    Fungsi pemecahan blok 3x3 baharu hanya terpakai pada semua jenis batang kayu (sama ada yang biasa/balak, batang/hifa kirmizi dan gila, dan juga semua jenis batang kayu yang dikupas kulit), dan bukan sebarang blok kayu lain (papan, papak, tangga dll.)
 * Beberapa perkara dalam fail bahasa telah diperbetulkan, termasuk ejaan `armour` dalam bahasa Inggeris British menggunakan ejaan Inggeris Amerika `armor`
 * Kod jadual rampasan telah diubah supaya dua varian busana muncul dalam satu "call" dan bukannya dua "call" yang berasingan
   * Dengan itu peluang untuk setiap "call" juga telah digandakan
 * Gandik kulit dalam peti rumah penduduk kampung tukang jahit kini sudah secara tidak sengaja dijana dengan sihir tahap tinggi
 * modid Sinytra Connector yang ditakrifkan di dalam fail (`neoforge.`)`mods.toml` kini telah diubah daripada `connector` menjadi id tepatnya iaitu`connectormod`
 * \[1.21.1] Kebergantungan Forge telah dibuang daripada fail `neoforge.mods.toml`
-* Penghargaan dikemas kini
+* Penghargaan telah dikemas kini
 
 ## v1.0 (3/2/2025) \[Fabric & Quilt 1.20.1/1.21.1, Forge 1.20.1, NeoForge 1.21.1]
 

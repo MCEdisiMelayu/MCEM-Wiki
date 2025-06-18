@@ -22,7 +22,7 @@ layout:
 * Terjemahan bahasa Indonesia telah ditambah! Terima kasih Dustin945!
 * Parang kini mempunyai kebolehan istimewa! Ia kini boleh melombong kayu balak dalam kawasan 3x3
   * Kelajuan perlombongan parang kini telah dikurangkan dengan ketara untuk menjadikannya tidak terlalu op tanpa sihir Kecekapan/Efficiency
-  *    Fungsi pemecahan blok 3x3 baharu hanya terpakai pada blok-blok seperti kayu, kayu balak, batang kirmizi dan gila, hifa kirmizi dan gila serta dengan varian yang dikupas kulit), dan bukan sebarang blok kayu lain (papan, papak, tangga dll.)
+  *    Fungsi pemecahan blok 3x3 baharu hanya terpakai pada semua jenis batang kayu (sama ada yang biasa/balak, batang/hifa kirmizi dan gila, dan juga semua jenis batang kayu yang dikupas kulit), dan bukan sebarang blok kayu lain (papan, papak, tangga dll.)
 * Beberapa perkara dalam fail bahasa telah diperbetulkan, termasuk ejaan `armour` dalam bahasa Inggeris British menggunakan ejaan Inggeris Amerika `armor`
 * Penghargaan telah dikemas kini
 
