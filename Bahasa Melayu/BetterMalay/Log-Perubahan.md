@@ -1,20 +1,23 @@
 ---
 description: Log perubahan untuk semua versi BetterMalay Language Pack
 icon: scroll
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Log Perubahan
+
+## v1.2.3 (11/7/2025) \[1.6-1.21]
+
+* Pek telah dikemas kini ke versi 1.21.6/.7
+* \[1.13+] Fail terjemahan asas telah dikemas kini ke versi 1.21.7-rc2
+* \[1.20+] Penghargaan dalam permainan telah dikemas kini ke revisi 1.21.6
+* \[1.20+] Teks hak cipta versi Jawi telah ditambahkan semula untuk pilihan Bahasa Melayu tulisan Jawi
+  * Sebelum ini diterjemah kepada tulisan Rumi kerana masalah penjajaran teks tulisan Arab yang menyebabkan dua aksara pertama (حق) keluar daripada kawasan skrin
+  * Kini teks tersebut mempunyai beberapa aksara ruang ditambah di awal sebagai padding bagi membawa kedua aksara tersebut kembali ke dalam kawasan skrin
+* \[1.19+] Susunan nama cakera muzik untuk trek lagu C418 telah diterbalikkan (menjadi \[nama trek lagu] - C418) untuk pilihan Bahasa Melayu tulisan Jawi
+  * Ini kerana semua nama komposer lain telah ditransliterasikan ke dalam tulisan Jawi, yang menyebabkan nama mereka muncul di sebelah kanan dan bukannya sebelah kiri. Perubahan ini dibuat supaya nama C418 muncul di sebelah kanan juga, sama seperti semua nama komposer lain.
+* \[All] Beberapa teks tampilan telah dikemas kini
+  * Juga ditambah teks tampilan baharu yang ditambah di dalam 1.21.6, dan juga beberapa lagi yang belum ditambah dalam kemas kini sebelumnya
+* Penghargaan dalam permainan dan fail zip telah dikemas kini
 
 ## v1.2.2 Hotfix (14/3/2025) \[1.20-1.21]
 

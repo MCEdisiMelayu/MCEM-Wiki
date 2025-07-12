@@ -1,20 +1,23 @@
 ---
 description: Changelogs for all JawiCraft Language Pack versions
 icon: scroll
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Changelog
+
+## v1.11.3 (21/2/2025) \[1.7 - 1.21]
+
+* Updated the pack to 1.21.6/.7
+* \[1.13+] Updated base translations to 1.21.7-rc2
+* \[1.20+] Updated the in-game credits to the 1.21.6 revision
+* \[1.20+] Readded the Jawi copyright text on the title screen
+  * Previously translated into Rumi script due to the alignment of the Arabic script that cause the first two characters to go off-screen
+  * Now the text have some padding added (just a few spaces) to make those characters go back into the screen.
+* \[All] Updated some splash texts
+  * Also added the new 1.21.6 splash texts
+* \[All] Reversed the order of the music disc name for C418 tracks (into \[track name] - C418)
+  * This is because all the other composers name are transliterated into Jawi script, so their names appear on the right instead of the left. This change is made for consistency so that C418's name appears on the right as well like all the other composer's name.
+* Updated credits both in-game and in the zip file
 
 ## v1.11.2 Hotfix (14/3/2025) \[1.20 - 1.21]
 

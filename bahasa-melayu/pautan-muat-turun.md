@@ -5,11 +5,11 @@ icon: down
 
 # Pautan Muat Turun
 
-## JawiCraft Language Pack - v1.11.2
+## JawiCraft Language Pack - v1.11.3
 
 [![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/resourcepack/jawicraft-language-pack/)
 
-## BetterMalay Language Pack - v1.2.2
+## BetterMalay Language Pack - v1.2.3
 
 [![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/resourcepack/bettermalay-language-pack/)
 
@@ -45,7 +45,7 @@ icon: down
 
 [![](https://github.com/blryface/blurrybadges/blob/main/badges/64h/Avaliable%20On%20PMC.png?raw=true)](https://www.planetminecraft.com/mod/peranggu-pahlawan-bedrock-edition/)
 
-## Lombina: Englishlah & Melayunya - v2.0
+## Lombina: Englishlah & Melayunya - v2.1
 
 [![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/resourcepack/lombina-englishlah-melayunya)
 
@@ -53,7 +53,7 @@ icon: down
 
 [![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/resourcepack/lombina-april-fools)
 
-## Lombina: Edisi Movie - v1.0
+## Lombina: Edisi Movie - v1.1
 
 [![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/resourcepack/lombina-edisi-movie)
 
