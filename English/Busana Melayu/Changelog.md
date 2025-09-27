@@ -1,20 +1,36 @@
 ---
 description: Changelogs for all Busana Melayu versions
 icon: scroll
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Changelog
+
+
+
+## v1.6.3 (Hotfix; Female Variant Only) (6/9/2025) \[1.6-1.12]
+
+Not to be confused with the [v1.6.3 update for 1.13-1.21 released on 31/8](https://modrinth.com/resourcepack/busana-melayu-fv/version/v1.6.3) which already fixes the problem
+
+* Fixed a very minor typo in the Indonesian translations that neither me nor the translator noticed
+  * It's the Chainmail Gandik being translated as "Gandi**l** Rantai"
+  * If you're a user of this pack on 1.7-1.12 and use the Indonesian language in-game, you might want to update to this version
+
+## v1.6.3 (31/8/2025) \[Bedrock]
+
+* Added copper variant for both the male and female attire set
+  * Currently not available in-game by default and requires enabling the "Drop 3 2025" setting in the "Experiments" section (until 1.21.110 released)
+
+Note: This pack's settings' description implementation used for displaying the description of subpacks and the credits are no longer supported as of 1.21.100. This feature may return in some form in a future update.
+
+## v1.6.3 (31/8/2025) \[1.13-1.21 + 25w35a]
+
+* Updated the pack.mcmeta file to work with the new supported versions format introduced in 25w31a
+  * Note: This pack will only load correctly in 25w34a and above, due to bug [MC-300888](https://bugs.mojang.com/browse/MC/issues/MC-300888)
+* \[25w31a+] Added copper variant for both the male and female attire set
+* \[25w31a+] Changed the armor model textures to make most of the tengkolok/gandik work again in versions since 25w31a
+  * May be reverted if this "change" turns out to be a bug
+
+Note: If there are no further changes between now and 1.21.9's full release, this version will be marked as compatible with 1.21.9 on Modrinth
 
 ## v1.6.2 (8/6/2025) \[Java 1.6 - 1.21 & Bedrock]
 

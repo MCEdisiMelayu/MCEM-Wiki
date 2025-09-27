@@ -11,6 +11,10 @@ hidden: true
 
 ***
 
+Fail ini mungkin tidak akan lagi digunakan pada masa akan datang. Saya (NuruddinPlays) dengan bantuan Dustin945 telah mencipta satu hamparan (spreadsheet) yang mengandungi daftar penuh untuk semua istilah Minecraft ke dalam bahasa Melayu dan bahasa Indonesia. Hamparan tersebut boleh dilihat melalui pautan berikut: [Daftar Besar Penterjemahan Istilah-istilah Minecraft](https://docs.google.com/spreadsheets/d/1GpyKe2qFtDFYV190mIYNLwCoIzPWGt7w6mOv58e9d9M/edit?gid=499747523#gid=499747523)
+
+***
+
 [Special Minecraft Terms / Istilah Khas Minecraft / ايستيله خاص ماءينکرف‌ت](Glosari-Minecraft-untuk-Rumi-dan-Jawi.md#special-minecraft-terms-istilah-khas-minecraft-aystylh-khas-maaynkrf-t)
 
 [General Loan Terms / Istilah Pinjaman Am / ايستيله ڤينجمن عام](Glosari-Minecraft-untuk-Rumi-dan-Jawi.md#general-loan-terms-istilah-pinjaman-am-aystylh-ynjmn-aam)

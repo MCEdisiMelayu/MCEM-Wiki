@@ -1,20 +1,61 @@
 ---
 description: Changelogs for all Peranggu Pahlawan (Java Edition) versions
 icon: scroll
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Changelog (Java Edition)
+
+## v1.2.1 (6/9/2025) \[Fabric & Quilt 1.20.1/1.21.1/1.21.4-1.21.8, Forge 1.20.1, NeoForge 1.21.1]
+
+### Changes
+
+* Fixed the following issues with the language files
+  * \[ALL] Fixed a very minor typo in the Indonesian translations that neither me nor the translator noticed
+    * It's the Chainmail Gandik being translated as "Gandi**l** Rantai"
+  * \[1.21.8] Fixed a missing comma in the json file for the Malay translation file; now Malay translations for the modified advancement descriptions should work again
+  * If you're affected by these (minor) issues, you may want to update to this version.
+
+### Notes
+
+**This version is compatible with servers running Peranggu Pahlawan v1.2.0** (on both native Fabric and via Connector), as the only thing changed in this version are the language files, and none of the codes are changed
+
+## v1.2.0 (31/8/2025) \[Fabric & Quilt 1.20.1/1.21.1/1.21.4-1.21.8, Forge 1.20.1, NeoForge 1.21.1]
+
+### Additions
+
+* \[Fabric/Quilt] This mod is now ported to all game drops since 1.21 for the Fabric and Quilt mod loaders
+  * The Garden Awakens (1.21.4)
+  * Spring to Life (1.21.5)
+  * Chase the Skies (1.21.6) and it's two hotfix updates (1.21.7 and 1.21.8)
+  * Please note that backports to versions older than 1.20.1/1.21.1 are not planned.
+* \[1.21.1 NeoForge] Added translation key for the mod's description when using NeoForge without Better ModList mod (which also appears when using the Catalogue mod)
+* \[1.20.1 & 1.21.1] Added Polymorph as an optional dependency
+* \[ALL] All items from this mod are now fully integrated into vanilla gameplay alongside their vanilla counterparts
+  * Leatherworker and Armorer Villagers can now sell attire pieces
+  * Weaponsmith and Toolsmith Villagers can now sell keris and parang
+  * Zombies, Skeletons, Husks and Strays can now spawn wearing attire pieces
+  * Zombies, Husks and Vexes can now spawn with iron keris
+  * Vindicators can now spawn with iron parang
+  * Piglins can now spawn with golden attires and keris
+  * Zombified Piglins can now spawn with golden keris
+  * Piglin Brutes can now spawn with golden parang
+* \[ALL] Golden items are now included in the `piglin_loved` tag
+
+### Removals
+
+* Crafting recipes for chainmail armor are now removed, since they can now be found in normal gameplay
+
+### Changes
+
+* Item tags for all 9 attire pieces are now split into their own tags instead of being grouped by their armor slots
+  * The old tags are still there, but are changed to refer to these new tags instead
+* The `swords` and `axes` item tags now respectively refers to the `keris` and `parang` tags directly instead of listing all items in those tags again
+* The "Cover Me in Debris" advancement's requirements have been tweaked so that having a full set of any combination of the two attire types grants the advancement instead of needing to have a full set of a single attire type
+
+|                                                                                                                                                                                                    v1.1.0 Behavior                                                                                                                                                                                                    |                                                                                                                                                                                                    v1.2.0 Behavior                                                                                                                                                                                                    |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| ![](https://wsrv.nl/?url=https%3A%2F%2Fwww.gitbook.com%2Fcdn-cgi%2Fimage%2Fdpr%3D2%2Cwidth%3D1168%2Conerror%3Dredirect%2Cformat%3Dauto%2Fhttps%253A%252F%252Ffiles.gitbook.com%252Fv0%252Fb%252Fgitbook-x-prod.appspot.com%252Fo%252Fspaces%25252FTE5gKTpTSgEDzTm1dxrq%25252Fuploads%25252FRVOs3odBs2X4fSrwpgge%25252Fpp_v1.1.0_check.png%253Falt%253Dmedia%2526token%253D8ff61922-3c02-4b0c-aaa4-26ba5a4b2d76\&n=-1) | ![](https://wsrv.nl/?url=https%3A%2F%2Fwww.gitbook.com%2Fcdn-cgi%2Fimage%2Fdpr%3D2%2Cwidth%3D1168%2Conerror%3Dredirect%2Cformat%3Dauto%2Fhttps%253A%252F%252Ffiles.gitbook.com%252Fv0%252Fb%252Fgitbook-x-prod.appspot.com%252Fo%252Fspaces%25252FTE5gKTpTSgEDzTm1dxrq%25252Fuploads%25252FxbL67bhmYMcX2lHEd2xm%25252Fpp_v1.1.1_check.png%253Falt%253Dmedia%2526token%253Dc3f2c0b2-9a2f-450d-a619-9184bb220f20\&n=-1) |
+|                                                                                                                                                                     Only the first two combinations grant the advancement, one for each attire set                                                                                                                                                                    |                                                                                                                                                                            Any combination of the two attire sets all grant the advancement                                                                                                                                                                           |
 
 ## v1.1.0 (8/6/2025) \[Fabric & Quilt 1.20.1/1.21.1, Forge 1.20.1, NeoForge 1.21.1]
 

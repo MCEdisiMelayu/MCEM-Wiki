@@ -5,6 +5,16 @@ icon: scroll
 
 # Log Perubahan
 
+## v1.2.4 (31/8/2025) \[1.6-1.21 + 25w35a]
+
+* \[1.20+] Fail pack.mcmeta telah dikemas kini untuk menyokong penformatan versi yang disokong yang diperkenalkan dalam versi 25w31a
+  * Catatan: Pek ini hanya boleh dimuatkan dengan betul dalam versi 25w34a dan ke atas disebabkan oleh pepijat [MC-300888](https://bugs.mojang.com/browse/MC/issues/MC-300888)
+* \[1.13+] Beberapa terjemahan telah dikemas kini berdasarkan terjemahan semasa setakat versi 25w35a
+* \[ALL] Beberapa terjemahan untuk nama sihir (enchantment) dan nama ikan tropika (yang pre-defined) telah dikemas kini
+* Beberapa teks tampilan telah dikemas kini
+
+Catatan: Jika tiada sebarang perubahan berlaku antara sekarang dan terbitan penuh 1.21.9, versi 1.20-1.21 akan ditanda sebagai serasi dengan 1.21.9 di Modrinth
+
 ## v1.2.3 (11/7/2025) \[1.6-1.21]
 
 * Pek telah dikemas kini ke versi 1.21.6/.7

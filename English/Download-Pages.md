@@ -5,31 +5,31 @@ icon: down
 
 # Download Pages
 
-## JawiCraft Language Pack - v1.11.3
+## JawiCraft Language Pack - v1.11.4
 
 [![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/resourcepack/jawicraft-language-pack/)
 
-## BetterMalay Language Pack - v1.2.3
+## BetterMalay Language Pack - v1.2.4
 
 [![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/resourcepack/bettermalay-language-pack/)
 
-## Senjata Melayu - v1.4.1
+## Senjata Melayu - v1.4.2
 
 [![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/resourcepack/senjata-melayu/)
 
-## Senjata Melayu (Bedrock) - v1.4.1
+## Senjata Melayu (Bedrock) - v1.4.2
 
 [![](https://github.com/blryface/blurrybadges/blob/main/badges/64h/Avaliable%20On%20PMC.png?raw=true)](https://www.planetminecraft.com/texture-pack/bedrock-keris-melayu-malay-keris/)
 
-## Busana Melayu (Java; Male Attire) - v1.6.2
+## Busana Melayu (Java; Male Attire) - v1.6.3
 
 [![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/resourcepack/busana-melayu/)
 
-## Busana Melayu (Java; Female Attire) - v1.6.2
+## Busana Melayu (Java; Female Attire) - v1.6.3
 
 [![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/resourcepack/busana-melayu-fv/) &#x20;
 
-## Busana Melayu (Bedrock) - v1.6.2
+## Busana Melayu (Bedrock) - v1.6.3
 
 [![](https://github.com/blryface/blurrybadges/blob/main/badges/64h/Avaliable%20On%20PMC.png?raw=true)](https://www.planetminecraft.com/texture-pack/busana-melayu-bedrock-port)
 
@@ -37,7 +37,7 @@ icon: down
 
 [![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/resourcepack/senjata-busana-melayu-cit)
 
-## Peranggu Pahlawan - v1.1
+## Peranggu Pahlawan - v1.2.1
 
 [![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/mod/peranggu-pahlawan)
 
@@ -49,10 +49,10 @@ icon: down
 
 [![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/resourcepack/lombina-englishlah-melayunya)
 
-## Lombina: April Fools - v1.0
+## Lombina: April Fools
 
 [![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/resourcepack/lombina-april-fools)
 
-## Lombina: Edisi Movie - v1.1
+## Lombina: Edisi Movie - v1.1.1
 
 [![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/resourcepack/lombina-edisi-movie)

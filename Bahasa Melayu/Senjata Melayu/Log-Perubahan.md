@@ -1,20 +1,25 @@
 ---
 description: Log perubahan untuk semua versi Senjata Melayu
 icon: scroll
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Log Perubahan
+
+## v1.4.2 (31/8/2025) \[Bedrock]
+
+*   Variasi tembaga untuk keris dan parang telah ditambah
+
+    * Pada masa ini tidak tersedia dalam permainan secara lalai dan memerlukan pendayaan tetapan "Drop 3 2025" dalam bahagian "Experiments" (sehingga 1.21.110 diterbitkan)
+
+    Catatan: Pelaksanaan keterangan tetapan yang pek ini digunakan untuk memaparkan perihalan subpek dan penghargaan tidak lagi disokong sejak versi 1.21.100. Ciri ini mungkin akan kembali dalam bentuk lain dalam kemas kini pada masa hadapan.
+
+## v1.4.2 (31/8/2025) \[1.13-1.21 + 25w35a]
+
+* Fail pack.mcmeta telah dikemas kini untuk menyokong penformatan versi yang disokong yang diperkenalkan dalam versi 25w31a
+  * Catatan: Pek ini hanya boleh dimuatkan dengan betul dalam versi 25w34a dan ke atas disebabkan oleh pepijat [MC-300888](https://bugs.mojang.com/browse/MC/issues/MC-300888)
+* \[25w31a+] Variasi tembaga untuk keris dan parang telah ditambah
+
+Catatan: Jika tiada sebarang perubahan berlaku antara sekarang dan terbitan penuh 1.21.9, versi ini akan ditanda sebagai serasi dengan 1.21.9 di Modrinth
 
 ## v1.4.1 (8/6/2025) \[Java 1.7 - 1.21 & Bedrock]
 
@@ -47,8 +52,6 @@ layout:
 ***
 
 ## v1.2 (15/12/2023) \[Java 1.7-1.20]
-
-[Log perubahan asal dalam bahasa Inggeris ada di sini](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Senjata-Melayu-%E2%80%90-Changelog)
 
 * Terbitan Modrinth pertama!
 * Menambah sokongan 1.20

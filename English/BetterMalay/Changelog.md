@@ -5,6 +5,16 @@ icon: scroll
 
 # Changelog
 
+## v1.2.4 (31/8/2025) \[1.6-1.21 + 25w35a]
+
+* \[1.20+] Updated the pack.mcmeta file to work with the new supported versions format introduced in 25w31a
+  * Note: This pack will only load correctly in 25w34a and above, due to bug [MC-300888](https://bugs.mojang.com/browse/MC/issues/MC-300888)
+* \[1.13+] Updated some translations to be based on the latest translations as of 25w35a
+* \[ALL] Updated some of the translations for the enchantments and (pre-defined) tropical fish names
+* Updated some splash texts
+
+Note: If there are no further changes between now and 1.21.9's full release, the 1.20-1.21 version will be marked as compatible with 1.21.9 on Modrinth
+
 ## v1.2.3 (11/7/2025) \[1.6-1.21]
 
 * Updated the pack to 1.21.6/.7

@@ -1,20 +1,34 @@
 ---
 description: Log perubahan untuk semua versi Busana Melayu
 icon: scroll
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Log Perubahan
+
+## v1.6.3 (Hotfix; Female Variant Only) (6/9/2025) \[1.6-1.12]
+
+Jangan dikelirukan dengan [kemas kini v1.6.3 untuk 1.13-1.21 yang diterbitkan pada 31/8](Log-Perubahan.md#v1.6.3-31-8-2025-1.13-1.21--25w35a) yang sudah memperbaiki masalah ini
+
+* Sebuah typo yang sangat kecil dalam terjemahan bahasa Indonesia telah diperbaiki
+  * Terjemahan tersebut ialah Chainmail Gandik yang diterjemah sebagai "Gandi**l** Rantai"
+  * Jika anda seorang pengguna pek ini pada versi 1.7-1.12 dan menggunakan bahasa Indonesia dalam permainan, anda mungkin mahu mengemas kini ke versi ini
+
+## v1.6.3 (31/8/2025) \[Bedrock]
+
+* Variasi tembaga untuk set busana lelaki dan perempuan telah ditambah
+  * Pada masa ini tidak tersedia dalam permainan secara lalai dan memerlukan pendayaan tetapan "Drop 3 2025" dalam bahagian "Experiments" (sehingga 1.21.110 diterbitkan)
+
+Catatan: Pelaksanaan keterangan tetapan yang pek ini digunakan untuk memaparkan perihalan subpek dan penghargaan tidak lagi disokong sejak versi 1.21.100. Ciri ini mungkin akan kembali dalam bentuk lain dalam kemas kini pada masa hadapan.
+
+## v1.6.3 (31/8/2025) \[1.13-1.21 + 25w35a]
+
+* Fail pack.mcmeta telah dikemas kini untuk menyokong penformatan versi yang disokong yang diperkenalkan dalam versi 25w31a
+  * Catatan: Pek ini hanya boleh dimuatkan dengan betul dalam versi 25w34a dan ke atas disebabkan oleh pepijat [MC-300888](https://bugs.mojang.com/browse/MC/issues/MC-300888)
+* \[25w31a+] Variasi tembaga untuk set busana lelaki dan perempuan telah ditambah
+* \[25w31a+] Tekstur model zirah diubah untuk membolehkan kebanyakkan tengkolok dan gandik berfungsi semula dalam versi selepas 25w31a
+  * Mungkin akan dibatalkan sekiranya "perubahan" ini adalah sebuah pepijat
+
+Catatan: Jika tiada sebarang perubahan berlaku antara sekarang dan terbitan penuh 1.21.9, versi ini akan ditanda sebagai serasi dengan 1.21.9 di Modrinth
 
 ## v1.6.2 (8/6/2025) \[Java 1.6 - 1.21 & Bedrock]
 

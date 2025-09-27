@@ -1,20 +1,24 @@
 ---
 description: Changelogs for all Senjata Melayu versions
 icon: scroll
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Changelog
+
+## v1.4.2 (31/8/2025) \[Bedrock]
+
+* Added copper variant for the keris and parang
+* Currently not available in-game by default and requires enabling the "Drop 3 2025" setting in the "Experiments" section (until 1.21.110 released)
+
+Note: This pack's settings' description implementation used for displaying the description of subpacks and the credits are no longer supported as of 1.21.100. This feature may return in some form in a future update.
+
+## v1.4.2 (31/8/2025) \[1.13-1.21 + 25w35a]
+
+* Updated the pack.mcmeta file to work with the new supported versions format introduced in 25w31a
+  * Note: This pack will only load correctly in 25w34a and above, due to bug [MC-300888](https://bugs.mojang.com/browse/MC/issues/MC-300888)
+* \[25w31a+] Added copper variant for the keris and parang
+
+Note: If there are no further changes between now and 1.21.9's full release, this version will be marked as compatible with 1.21.9 on Modrinth
 
 ## v1.4.1 (8/6/2025) \[Java 1.7 - 1.21 & Bedrock]
 
