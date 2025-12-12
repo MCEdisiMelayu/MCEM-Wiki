@@ -1,17 +1,6 @@
 ---
 description: Log perubahan untuk semua versi Senjata + Busana Melayu - CIT Pack
 icon: scroll
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Log Perubahan

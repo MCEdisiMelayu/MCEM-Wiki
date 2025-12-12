@@ -1,17 +1,6 @@
 ---
 description: Tutorial pemasangan pek sumber JawiCraft Language Pack
 icon: wrench
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Pemasangan

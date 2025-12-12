@@ -1,17 +1,6 @@
 ---
 description: Changelogs for all Senjata + Busana Melayu - CIT Pack versions
 icon: scroll
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Changelog

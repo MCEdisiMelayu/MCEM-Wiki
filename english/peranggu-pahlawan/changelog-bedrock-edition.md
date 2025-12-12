@@ -1,17 +1,6 @@
 ---
 description: 'Changelogs for all Peranggu Pahlawan: Bedrock Edition versions'
 icon: scroll
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Changelog (Bedrock Edition)

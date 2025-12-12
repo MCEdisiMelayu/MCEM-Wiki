@@ -1,17 +1,6 @@
 ---
 description: 'Log perubahan untuk semua versi Peranggu Pahlawan: Bedrock Edition'
 icon: scroll
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Log Perubahan (Edisi Bedrock)

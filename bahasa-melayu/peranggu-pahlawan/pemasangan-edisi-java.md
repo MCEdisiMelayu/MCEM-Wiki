@@ -1,17 +1,6 @@
 ---
 description: Tutorial pemasangan mod Peranggu Pahlawan (Edisi Java)
 icon: wrench
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Pemasangan (Edisi Java)
