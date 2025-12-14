@@ -5,6 +5,15 @@ icon: scroll
 
 # Log Perubahan
 
+## v1.6.3\_01 (13/12/2025) \[Bedrock]
+
+* Nama pek dalam permainan telah dikemas kini untuk menjadikannya konsisten dengan addon Peranggu Pahlawan
+* Nombor min\_engine\_version untuk pek ini telah dikemas kini untuk menyokong Vibrant Visuals
+* Petunjuk subpek dan penghargaan pek kini boleh dilihat semula dalam permainan, cuma di tempat yang sedikit berbeza (penghargaan pek kini terdapat di dalam keterangan pek)
+  * Teks penghargaan telah diubah untuk mengatasi batasan pemformatan teks dalam OreUI
+* Nombor versi pek kini disertakan dalam nama pek dalam permainan untuk kedua-dua pek sumber dan pek tingkah laku
+* Credits.txt telah diubah sedikit
+
 ## v1.6.3 (Hotfix; Female Variant Only) (6/9/2025) \[1.6-1.12]
 
 Jangan dikelirukan dengan [kemas kini v1.6.3 untuk 1.13-1.21 yang diterbitkan pada 31/8](Log-Perubahan.md#v1.6.3-31-8-2025-1.13-1.21--25w35a) yang sudah memperbaiki masalah ini

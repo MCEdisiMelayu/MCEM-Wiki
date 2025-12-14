@@ -5,6 +5,20 @@ icon: scroll
 
 # Changelog
 
+## Release 4 (12/12/2025) \[Java 1.12.2, 1.20.1-1.20.4, 1.21-1.21.1]
+
+#### Additions
+
+* Copper Keris, Parang and Attires!
+  * Rename any **iron** sword, axe or armor pieces in an anvil to obtain them!
+  * The "old keris" group of item will not recieve a copper variant
+
+#### OptiFine Compatibility
+
+In Release 3, I unknowningly broke compatibility with OptiFine with the following change:\
+`Heavily simplified the pack's content, to reduce the file size`\
+This is due to the vastly different (and sometimes buggy) method that each supported OptiFine versions used (1.12.2, 1.20.1, 1.21.1+) for parsing the texture's location. With this, **the change above have been reverted** for the directories used by OptiFine. CIT Resewn and Chime's directories are left unchanged and will continue to use the shared texture location introduced in Release 3
+
 ## Release 3.1 (8/6/2025) \[Java 1.12.2, 1.20.1-1.20.4, 1.21-1.21.1]
 
 * Added Indonesian name options in the CIT

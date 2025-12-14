@@ -7,6 +7,15 @@ icon: scroll
 
 
 
+## v1.6.3\_01 (13/12/2025) \[Bedrock]
+
+* Updated the in-game pack name slightly to make it consistent with the Peranggu Pahlawan addon
+* Updated the pack's min\_engine\_version to support Vibrant Visuals
+* The subpack hints and credits can now be seen again in-game, just in slightly different places (the credits is now in the pack's description)
+  * The credits text have been adjusted to work around OreUI's text formatting limitations
+* The pack version number is now included in the in-game pack name
+* Adjusted Credits.txt slightly
+
 ## v1.6.3 (Hotfix; Female Variant Only) (6/9/2025) \[1.6-1.12]
 
 Not to be confused with the [v1.6.3 update for 1.13-1.21 released on 31/8](https://modrinth.com/resourcepack/busana-melayu-fv/version/v1.6.3) which already fixes the problem

@@ -5,6 +5,20 @@ icon: scroll
 
 # Log Perubahan
 
+## Release 4 (12/12/2025) \[Java 1.12.2, 1.20.1-1.20.4, 1.21-1.21.1]
+
+#### Penambahan
+
+* Keris, Parang dan Busana Tembaga!
+  * Untuk memperolehnya, namakan semula sebarang pedang, kapak atau kepingan zirah **besi** di dalam andas!
+  * Variasi tembaga untuk "keris lama" tidak ditambah
+
+#### Keserasian dengan OptiFine
+
+Dalam Release 3, saya tanpa sedar telah merosakkan keserasian dengan OptiFine dengan perubahan berikut:\
+`Kandungan pek telah diperkecilkan, untuk mengurangkan saiz fail`\
+Hal ini disebabkan oleh kaedah yang sangat berbeza (dan kadangkala bermasalah) yang digunakan oleh setiap versi OptiFine yang disokong (1.12.2, 1.20.1, 1.21.1+) untuk menghuraikan lokasi tekstur. Dengan ini, **perubahan di atas telah dibatalkan** untuk direktori yang digunakan oleh OptiFine. Direktori CIT Resewn dan Chime dibiarkan tidak berubah dan akan terus menggunakan lokasi tekstur kongsi yang diperkenalkan dalam Release 3.
+
 ## Release 3.1 (8/6/2025) \[Java 1.12.2, 1.20.1-1.20.4, 1.21-1.21.1]
 
 * Pilihan nama untuk bahasa Indonesia telah ditambahkan ke dalam CIT

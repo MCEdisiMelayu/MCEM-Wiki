@@ -5,6 +5,15 @@ icon: scroll
 
 # Log Perubahan
 
+## v1.4.2\_01 (13/12/2025) \[Bedrock]
+
+* Nama pek dalam permainan telah dikemas kini untuk menjadikannya konsisten dengan addon Peranggu Pahlawan
+* Nombor min\_engine\_version untuk pek ini telah dikemas kini untuk menyokong Vibrant Visuals
+* Petunjuk subpek dan penghargaan pek kini boleh dilihat semula dalam permainan, cuma di tempat yang sedikit berbeza (penghargaan pek kini terdapat di dalam keterangan pek)
+  * Teks penghargaan telah diubah untuk mengatasi batasan pemformatan teks dalam OreUI
+* Nombor versi pek kini disertakan dalam nama pek dalam permainan untuk kedua-dua pek sumber dan pek tingkah laku
+* Credits.txt telah diubah sedikit
+
 ## v1.4.2 (31/8/2025) \[Bedrock]
 
 *   Variasi tembaga untuk keris dan parang telah ditambah

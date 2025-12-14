@@ -5,6 +5,15 @@ icon: scroll
 
 # Changelog
 
+## v1.4.2\_01 (13/12/2025) \[Bedrock]
+
+* Updated the in-game pack name slightly to make it consistent with the Peranggu Pahlawan addon
+* Updated the pack's min\_engine\_version to support Vibrant Visuals
+* The subpack hints and credits can now be seen again in-game, just in slightly different places (the credits is now in the pack's description)
+  * The credits text have been adjusted to work around OreUI's text formatting limitations
+* The pack version number is now included in the in-game pack name
+* Adjusted Credits.txt slightly
+
 ## v1.4.2 (31/8/2025) \[Bedrock]
 
 * Added copper variant for the keris and parang

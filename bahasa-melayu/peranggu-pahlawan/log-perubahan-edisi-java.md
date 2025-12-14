@@ -5,6 +5,37 @@ icon: scroll
 
 # Log Perubahan (Edisi Java)
 
+## v1.3.0 (12/12/2025) \[Fabric & Quilt 1.20.1/1.21.1/1.21.4-1.21.11, Forge 1.20.1, NeoForge 1.21.1]
+
+#### Penambahan
+
+* Mod ini telah dibawa ke versi 1.21.9 (The Copper Age) dan versi hotfixnya (1.21.10) untuk pemuat mod Fabric dan Quilt
+* Mod ini telah dibawa ke versi 1.21.11 (Mounts of Mayhem) untuk pemuat mod Fabric dan Quilt
+* Keris, Parang dan Busana Tembaga!
+  * Mempunyai statistik yang hampir sama dengan vanilla counterpart mereka, selain daripada perbezaan yang disenaraikan dalam halaman mod di Modrinth
+  * Penambahan tembaga ini telah dibawa ke semua versi yang disokong mod ini, dengan beberapa peringatan:
+    * Item-item tembaga ini **tidak boleh diperoleh dalam mod kemandirian**, dan buat masa sekarang hanya tersedia dalam mod kreatif
+    * Pemakaian zirah tembaga menggunakan suara yang sama seperti memakai zirah besi
+    * Tag item `copper_tool_materials` telah dibawa ke semua versi yang disokong mod ini
+* Terjemahan Bahasa Indonesia Ejaan Lama (Bahasa Indonesia edjaän lama) telah ditambah
+  * Terima kasih Dustin945 untuk terjemahannya (dan penambahan bahasa in ke Minecraft!)
+* \[1.21.1] Sokongan Epic Fight untuk NeoForge 1.21.1 telah ditambah
+
+#### Perubahan
+
+* Fail tag item `head_armor`, `chest_armor`, `leg_armor` dan `foot_armor` telah dipindahkan ke sub-direktori teratas `tag/item` daripada `tag/item/enchantable`
+  * Fail tag item `durability` dan `equippable` telah dialih keluar, kerana ia kini tidak diperlukan hasil daripada perubahan di atas, tetapi tiada apa yang sepatutnya berubah dalam permainan
+* Tengkolok dan gandik besi sudah tidak lagi berada dalam tier berlian untuk perlengkapan makhluk
+* Set zirah emas kini boleh muncul semula pada makhluk (kedua-dua zirah vanila dan busana dalam mod ini)
+* Kod peralatan mob telah diubah agar lebih sepadan dengan tingkah laku vanila
+
+#### Resipi Pertukangan Busana Rantai
+
+* Telah ditambahkan semula ke dalam mod, namun tidak dipaparkan di dalam buku resipi, dan pemasangan mod [Sumbaii999's Craftable Chainmail Armor](https://modrinth.com/datapack/craftable-chainmail-armor-by-sumbaii999/) adalah diperlukan untuk menukangnya dalam permainan
+  * Agak kurang vanilla, tapi kalau korang nak pakai juga sekurang-kurangnya pilihan itu ada
+  * Kalau korang nak buat Baju Melayu Rantai atau Seluar Melayu Rantai dalam versi-versi yang tidak disokong oleh mod Polymorph (1.21.4 dan ke atas), kesemua slot yang tinggal perlu diisi dengan Iron Nugget / Nuget Besi
+    * Hal ini supaya dapat mengelak konflik resipi dengan resipi Zirah Dada Rantai dan Zirah Kaki Rantai (yang bentuknya sama dan juga tidak dipaparkan di dalam buku resipi)
+
 ## v1.2.1 (6/9/2025) \[Fabric & Quilt 1.20.1/1.21.1/1.21.4-1.21.8, Forge 1.20.1, NeoForge 1.21.1]
 
 ### Perubahan

@@ -5,6 +5,13 @@ icon: scroll
 
 # Changelog
 
+## v1.11.5 (12/12/2025) \[1.7-1.21]
+
+* \[ALL] Added new splash texts that was added in 1.21.11
+* \[ALL] Updated translation to the latest revision as of 1.21.11
+  * Fixed some translation inconsistencies
+* \[1.13+/1.20+] Synced the contents of `ms_my.json` and `zlm_arab.json` with the [BetterMalay Language Pack](https://modrinth.com/resourcepack/bettermalay-language-pack)
+
 ## v1.11.4 (31/8/2024) \[1.7-1.21 + 25w35a]
 
 * \[1.20+] Updated the pack.mcmeta file to work with the new supported versions format introduced in 25w31a

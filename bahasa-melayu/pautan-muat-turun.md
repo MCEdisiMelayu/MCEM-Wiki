@@ -5,11 +5,11 @@ icon: down
 
 # Pautan Muat Turun
 
-## JawiCraft Language Pack - v1.11.4
+## JawiCraft Language Pack - v1.11.5
 
 [![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/resourcepack/jawicraft-language-pack/)
 
-## BetterMalay Language Pack - v1.2.4
+## BetterMalay Language Pack - v1.2.5
 
 [![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/resourcepack/bettermalay-language-pack/)
 
@@ -17,7 +17,7 @@ icon: down
 
 [![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/resourcepack/senjata-melayu/)
 
-## Senjata Melayu (Bedrock) - v1.4.2
+## Senjata Melayu (Bedrock) - v1.4.2\_01
 
 [![](https://github.com/blryface/blurrybadges/blob/main/badges/64h/Avaliable%20On%20PMC.png?raw=true)](https://www.planetminecraft.com/texture-pack/bedrock-keris-melayu-malay-keris/)
 
@@ -29,19 +29,19 @@ icon: down
 
 [![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/resourcepack/busana-melayu-fv/) &#x20;
 
-## Busana Melayu (Bedrock) - v1.6.3
+## Busana Melayu (Bedrock) - v1.6.3\_01
 
 [![](https://github.com/blryface/blurrybadges/blob/main/badges/64h/Avaliable%20On%20PMC.png?raw=true)](https://www.planetminecraft.com/texture-pack/busana-melayu-bedrock-port)
 
-## Senjata + Busana Melayu - CIT Edition - Release 3.1
+## Senjata + Busana Melayu - CIT Edition - Release 4
 
 [![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/resourcepack/senjata-busana-melayu-cit)
 
-## Peranggu Pahlawan - v1.2.1
+## Peranggu Pahlawan - v1.3.0
 
 [![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/mod/peranggu-pahlawan)
 
-## Peranggu Pahlawan: Bedrock Edition - v1.1
+## Peranggu Pahlawan: Bedrock Edition - v1.3.0
 
 [![](https://github.com/blryface/blurrybadges/blob/main/badges/64h/Avaliable%20On%20PMC.png?raw=true)](https://www.planetminecraft.com/mod/peranggu-pahlawan-bedrock-edition/)
 

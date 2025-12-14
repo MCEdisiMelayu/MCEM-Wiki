@@ -5,6 +5,37 @@ icon: scroll
 
 # Changelog (Java Edition)
 
+## v1.3.0 (12/12/2025) \[Fabric & Quilt 1.20.1/1.21.1/1.21.4-1.21.11, Forge 1.20.1, NeoForge 1.21.1]
+
+#### Additions
+
+* Ported the mod to 1.21.9 (The Copper Age) and it's hotfix version (1.21.10) for the Fabric and Quilt mod loader
+* Ported the mod to 1.21.11 (Mounts of Mayhem) for the Fabric and Quilt mod loader
+* Copper Keris, Parang and Attires!
+  * Have pretty much the same stats as their vanilla counterparts, aside from the differences listed on the mod's Modrinth page
+  * These copper additions are also backported to **all** supported versions, with some caveats
+    * These copper items are **not obtainable in survival**, and are currently creative-only items
+    * Equipping copper attires uses the same sounds as equipping iron armor
+    * The `copper_tool_materials` item tag have been backported to all supported versions
+* Added Old Spelling Indonesian (Bahasa Indonesia edjaän lama) translation
+  * Thanks to Dustin945 for the translation (and the addition of the language to Minecraft)
+* \[1.21.1] Added support for Epic Fight for NeoForge 1.21.1
+
+#### Changes
+
+* The `head_armor`, `chest_armor`, `leg_armor` and `foot_armor` item tag files have been moved to the top `tags/item` sub-directory from `tags/item/enchantable`
+  * The `durability` and `equippable` item tag files have been removed, as it's now redundant thanks to the change above, but nothing should have changed in-game
+* Fixed iron tengkolok and gandik being in the diamond tier for mob equipment
+* Gold armor sets can now spawn on mobs again (both vanilla armor and this mod's attires)
+* The mob equipment code have been changed to better match vanilla behaviour
+
+#### Chainmail Attires' Crafting Recipes
+
+* Now re-added into the mod, but are not visible in the recipe book, and you must install [Sumbaii999's Craftable Chainmail Armor](https://modrinth.com/datapack/craftable-chainmail-armor-by-sumbaii999/) mod to be able to craft them in-game
+  * Not necessarily vanilla-like, but the option is there if you want to craft them
+  * If you are playing on versions that are not supported by the Polymorph mod (1.21.4+), you must fill all the remaining slots with Iron Nuggets when crafting a Chainmail Baju Melayu or Seluar Melayu
+    * This is to avoid conflicts with vanilla Chainmail Chestplate's and Leggings' crafting recipes (which are the same shape and also not visible in the recipe book)
+
 ## v1.2.1 (6/9/2025) \[Fabric & Quilt 1.20.1/1.21.1/1.21.4-1.21.8, Forge 1.20.1, NeoForge 1.21.1]
 
 ### Changes

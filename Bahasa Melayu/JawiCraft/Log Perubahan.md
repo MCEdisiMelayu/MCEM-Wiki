@@ -5,6 +5,13 @@ icon: scroll
 
 # Log Perubahan
 
+## v1.11.5 (12/12/2025) \[1.7-1.21]
+
+* \[ALL] Teks tampilan yang ditambahkan dalam versi 1.21.11 telah ditambah ke dalam pek
+* \[ALL] Terjemahan telah dikemas kini kepada semakan terkini setakat versi 1.21.11
+  * Berapa ketidakkonsistenan terjemahan telah diperbaiki
+* \[1.13+/1.20+] Kandungan `ms_my.json` dan `zlm_arab.json` telah disegerakkan dengan [BetterMalay Language Pack](https://modrinth.com/resourcepack/bettermalay-language-pack)
+
 ## v1.11.4 (31/8/2024) \[1.7-1.21 + 25w35a]
 
 * \[1.20+] Fail pack.mcmeta telah dikemas kini untuk menyokong penformatan versi yang disokong yang diperkenalkan dalam versi 25w31a
