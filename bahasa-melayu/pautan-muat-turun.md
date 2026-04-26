@@ -1,6 +1,22 @@
 ---
-description: Pautan ke halaman muat turun semua pek MCEM
+description: Pautan ke halaman muat turun untuk semua pek MCEM
 icon: down
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
 # Pautan Muat Turun

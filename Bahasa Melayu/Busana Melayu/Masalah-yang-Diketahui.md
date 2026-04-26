@@ -1,6 +1,22 @@
 ---
 description: Semua masalah yang diketahui apabila menggunakan pek sumber Busana Melayu
 icon: xmark
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
 # Masalah yang Diketahui

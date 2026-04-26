@@ -1,6 +1,22 @@
 ---
 description: Log perubahan untuk semua versi Peranggu Pahlawan (Edisi Java)
 icon: scroll
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
 # Log Perubahan (Edisi Java)
@@ -27,7 +43,7 @@ icon: scroll
   * Fail tag item `durability` dan `equippable` telah dialih keluar, kerana ia kini tidak diperlukan hasil daripada perubahan di atas, tetapi tiada apa yang sepatutnya berubah dalam permainan
 * Tengkolok dan gandik besi sudah tidak lagi berada dalam tier berlian untuk perlengkapan makhluk
 * Set zirah emas kini boleh muncul semula pada makhluk (kedua-dua zirah vanila dan busana dalam mod ini)
-* Kod peralatan mob telah diubah agar lebih sepadan dengan tingkah laku vanila
+* Kod perlengkapan makhluk telah diubah agar lebih sepadan dengan tingkah laku vanila
 
 #### Resipi Pertukangan Busana Rantai
 
@@ -40,8 +56,8 @@ icon: scroll
 
 ### Perubahan
 
-* Masalah-masalah dengan fail bahasa yang berikut telah diperbaiki
-  * \[ALL] Typo yang sangat kecil dalam terjemahan bahasa Indonesia telah diperbaiki
+* Masalah-masalah dengan fail bahasa yang berikut telah dibaiki
+  * \[ALL] Typo yang sangat kecil dalam terjemahan bahasa Indonesia telah dibaiki
     * Terjemahan tersebut ialah Chainmail Gandik yang diterjemah sebagai "Gandi**l** Rantai"
   * \[1.21.8] Satu tanda koma yang tiada di dalam fail terjemahan bahasa Melayu telah ditambah semula. Kini terjemahan bahasa Melayu untuk keterangan kemajuan yang diubah suai telah berfungsi semula.
   * Jika anda terkesan oleh isu-isu (kecil) ini, anda mungkin mahu mengemas kini kepada versi ini.

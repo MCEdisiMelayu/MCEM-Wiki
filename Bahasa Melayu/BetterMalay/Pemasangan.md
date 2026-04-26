@@ -1,6 +1,22 @@
 ---
 description: Tutorial pemasangan pek sumber BetterMalay Language Pack
 icon: wrench
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
 # Pemasangan

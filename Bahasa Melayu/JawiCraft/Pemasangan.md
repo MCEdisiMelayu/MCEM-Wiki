@@ -1,6 +1,22 @@
 ---
 description: Tutorial pemasangan pek sumber JawiCraft Language Pack
 icon: wrench
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
 # Pemasangan
@@ -10,5 +26,13 @@ icon: wrench
 3. Copy/Cut dan Paste pek sumber yang dimuat turun ke folder yang baru saja dibuka
 4. Kembali ke Minecraft, dan pek \[1.xx.x] JawiCraft Language Pack v1.x akan muncul, pilih dan tekan Selesai/Done
 5. Pergi ke Tetapan/Option > Bahasa/Language, dan scroll ke paling bawah dan pilih "بهاس ملايو (مليسيا)"
-6. \[Untuk versi 1.7-1.10 sahaja] Mulakan semula permainan untuk menerapkan perubahan fon dengan sepenuhnya (disebabkan oleh [pepijat ini](https://bugs.mojang.com/browse/MC-41270))
-7. Dan siap!
+6. Dan siap!
+
+{% hint style="warning" %}
+**\[Untuk versi 1.7-1.10 sahaja]** Mulakan semula permainan untuk menerapkan perubahan fon dengan sepenuhnya (disebabkan oleh [pepijat ini](https://bugs.mojang.com/browse/MC-41270) | Mirror: [Atlassian](https://report.bugs.mojang.com/servicedesk/customer/portal/2/MC-41270) / [Mojira.dev](https://mojira.dev/MC-41270))
+{% endhint %}
+
+{% hint style="info" %}
+Akaun Atlassian adalah **diperlukan** untuk melihat mirror Atlassian
+{% endhint %}
+

@@ -1,6 +1,22 @@
 ---
 description: Tutorial pemasangan mod Peranggu Pahlawan (Edisi Java)
 icon: wrench
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
 # Pemasangan (Edisi Java)
@@ -16,6 +32,10 @@ icon: wrench
 * **Quilt (1.20.1)**
   * [Sodium Plus](https://modrinth.com/modpack/sodiumplus/) **(v2.2.11)**
 
+## Cara Pemasangan <a href="#modrinth-app" id="modrinth-app"></a>
+
+{% tabs %}
+{% tab title="Modrinth App (disarankan)" %}
 ## Modrinth App _(disarankan)_ <a href="#modrinth-app" id="modrinth-app"></a>
 
 1. Buka Modrinth App
@@ -26,7 +46,9 @@ icon: wrench
 6. Klik `Back to instance` lalu klik `Play`
 
 <figure><img src="../../.gitbook/assets/peranggu_pahlawan_mrapp.PNG" alt=""><figcaption></figcaption></figure>
+{% endtab %}
 
+{% tab title="Prism Launcher (disarankan)" %}
 ## Prism Launcher _(disarankan)_ <a href="#prism-launcher" id="prism-launcher"></a>
 
 1. Buka Prism Launcher
@@ -39,7 +61,9 @@ icon: wrench
 8. Mod akan dimuat turun dan ditambahkan ke dalam instance anda.
 
 <figure><img src="../../.gitbook/assets/peranggu_pahlawan_prism.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
 
+{% tab title="Pelancar Minecraft (Vanila)" %}
 Pelancar Minecraft (vanila)
 
 
@@ -51,3 +75,5 @@ Pelancar Minecraft (vanila)
 4. Klik `⤓` pada versi terkini yang serasi dengan versi Minecraft anda
 5. Setelah dimuat turun, salin fail JAR mod itu ke folder "mods" untuk modpack.
 6. Jalankan permainan seperti biasa. Mod tersebut sekarang sudah dipasang!
+{% endtab %}
+{% endtabs %}

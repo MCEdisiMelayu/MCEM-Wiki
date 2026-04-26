@@ -2,6 +2,22 @@
 description: Ingin menggandingkan pek sumber ini dengan pek MCEM yang lain?
 hidden: true
 icon: plus-large
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
 # Gandingan Pek

@@ -1,22 +1,29 @@
 ---
 description: Changelogs for all Busana Melayu versions
 icon: scroll
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
 # Changelog
 
-
-
-## v1.6.3\_01 (13/12/2025) \[Bedrock]
-
-* Updated the in-game pack name slightly to make it consistent with the Peranggu Pahlawan addon
-* Updated the pack's min\_engine\_version to support Vibrant Visuals
-* The subpack hints and credits can now be seen again in-game, just in slightly different places (the credits is now in the pack's description)
-  * The credits text have been adjusted to work around OreUI's text formatting limitations
-* The pack version number is now included in the in-game pack name
-* Adjusted Credits.txt slightly
-
-## v1.6.3 (Hotfix; Female Variant Only) (6/9/2025) \[1.6-1.12]
+{% tabs %}
+{% tab title="Java Edition" %}
+## v1.6.3 (Hotfix; Female Variant Only) (6/9/2025) \[1.6-1.12] \[NuruddinPlays]
 
 Not to be confused with the [v1.6.3 update for 1.13-1.21 released on 31/8](https://modrinth.com/resourcepack/busana-melayu-fv/version/v1.6.3) which already fixes the problem
 
@@ -24,14 +31,7 @@ Not to be confused with the [v1.6.3 update for 1.13-1.21 released on 31/8](https
   * It's the Chainmail Gandik being translated as "Gandi**l** Rantai"
   * If you're a user of this pack on 1.7-1.12 and use the Indonesian language in-game, you might want to update to this version
 
-## v1.6.3 (31/8/2025) \[Bedrock]
-
-* Added copper variant for both the male and female attire set
-  * Currently not available in-game by default and requires enabling the "Drop 3 2025" setting in the "Experiments" section (until 1.21.110 released)
-
-Note: This pack's settings' description implementation used for displaying the description of subpacks and the credits are no longer supported as of 1.21.100. This feature may return in some form in a future update.
-
-## v1.6.3 (31/8/2025) \[1.13-1.21 + 25w35a]
+## v1.6.3 (31/8/2025) \[1.13-1.21 + 25w35a] \[NuruddinPlays]
 
 * Updated the pack.mcmeta file to work with the new supported versions format introduced in 25w31a
   * Note: This pack will only load correctly in 25w34a and above, due to bug [MC-300888](https://bugs.mojang.com/browse/MC/issues/MC-300888)
@@ -41,16 +41,16 @@ Note: This pack's settings' description implementation used for displaying the d
 
 Note: If there are no further changes between now and 1.21.9's full release, this version will be marked as compatible with 1.21.9 on Modrinth
 
-## v1.6.2 (8/6/2025) \[Java 1.6 - 1.21 & Bedrock]
+## v1.6.2 (8/6/2025) \[1.6 - 1.21] \[NuruddinPlays]
 
 * Updated Indonesian translations! Thanks to Dustin945!
 * Updated the credits text file
 
-## v1.6.1 (27/3/2025) \[Java 1.13 - 1.21 & Bedrock; Male Variant Only] \[NuruddinPlays]
+## v1.6.1 (27/3/2025) \[1.13 - 1.21; Male Variant Only] \[NuruddinPlays]
 
 * Tweaked most of the leggings (Seluar) trim textures to make them still somewhat visible underneath the Samping
 
-## v1.6 (15/2/2025) \[Java 1.6 - 1.21 & Bedrock] \[NuruddinPlays]
+## v1.6 (15/2/2025) \[1.6 - 1.21] \[NuruddinPlays]
 
 * Changed the texture of empty slot icons for all armor pieces into their respective replacements; eg. Helmet becomes Tengkolok for the male variant and Gandik for the female variant
 * Added support for armor trims (only for chestplate, leggings and boots replacements)
@@ -71,24 +71,16 @@ Note: If there are no further changes between now and 1.21.9's full release, thi
   * The pack credits are also shown in the settings window
 * Resized all pack icons from 1080x1080 to 512x512 to reduce file size
 
-## v1.5.1 (16/9/2024) \[Java 1.13 - 1.21] \[NuruddinPlays]
+
+
+***
+
+## v1.5.1 (16/9/2024) \[1.13 - 1.21] \[NuruddinPlays]
 
 * Pack have been ported to pack format 37 (24w36a and up)
   * The directories for armor model textures have changed significantly in this version
 
-***
-
-## Bedrock Port v1.1 (1/9/2024) \[Bedrock] \[NuruddinPlays]
-
-* Changed the diamond tengkolok texture to make the transition between diamond and netherite more seamless
-* Added the credits file into the zip file
-* Updated the pack icon
-* Added a new set of armor containing the female variant of the Malay attire
-* This is available as a separate standalone version from the main pack which contains the male variant
-
-***
-
-## Busana Melayu v1.5 (31/8/2024) \[Java 1.7 - 1.21] \[NuruddinPlays]
+## v1.5 (31/8/2024) \[1.7 - 1.21] \[NuruddinPlays]
 
 * Changed the diamond tengkolok texture to make the transition between diamond and netherite more seamless
 * Added the female's variant of the Malay attire (under the type **Busana (P)** in [the item name table](../../english/senjata-+-busana-melayu-cit-pack/item-table.md))
@@ -97,9 +89,11 @@ Note: If there are no further changes between now and 1.21.9's full release, thi
 * Added the credits file into the zip file
 * Updated the pack icon
 
+
+
 ***
 
-## v1.4 (15/12/2023) \[Java 1.7-1.20] \[NuruddinPlays]
+## v1.4 (15/12/2023) \[1.7-1.20] \[NuruddinPlays]
 
 * Initial Modrinth release!
 * Added support for Jawi translations (both in-game and with JawiCraft language pack) for all versions
@@ -108,21 +102,109 @@ Note: If there are no further changes between now and 1.21.9's full release, thi
   * The trims will come back with a new look in a future update
 * \[1.8] Fixed the pack\_format number, now it's set to the correct version
 
-## Bedrock Port v1.0 (20/7/2023) \[Bedrock] \[NuruddinPlays]
 
-* Initial release
-* Ported the pack to Bedrock Edition
 
-## v1.3 (20/6/2023) \[Java 1.7-1.20] \[NuruddinPlays]
+***
+
+## v1.3 (20/6/2023) \[1.7-1.20] \[NuruddinPlays]
 
 * Added custom names for all armor piece in English, Malay and Indonesian
 * The pack is now divided into four versions, 1.7-1.10, 1.11-1.12, 1.13-1.15 and 1.16-1.20
 * Planned updates : Armor trims designs to fit with the pack
 
-## v1.2 (17/7/2022) \[Java 1.7-1.19] \[flurrry]
+
+
+***
+
+## v1.2 (17/7/2022) \[1.7-1.19] \[flurrry]
 
 * Fixed leather armor and pack icon not showing
 
-## v1.0 (16/7/2022) \[Java 1.7-1.19] \[flurrry]
+
+
+***
+
+## v1.0 (16/7/2022) \[1.7-1.19] \[flurrry]
 
 * Initial release
+{% endtab %}
+
+{% tab title="Bedrock Edition" %}
+## v1.6.3\_01 (13/12/2025)
+
+* Updated the in-game pack name slightly to make it consistent with the Peranggu Pahlawan addon
+* Updated the pack's min\_engine\_version to support Vibrant Visuals
+* The subpack hints and credits can now be seen again in-game, just in slightly different places (the credits is now in the pack's description)
+  * The credits text have been adjusted to work around OreUI's text formatting limitations
+* The pack version number is now included in the in-game pack name
+* Adjusted Credits.txt slightly
+
+## v1.6.3 (Hotfix; Female Variant Only) (6/9/2025)
+
+Not to be confused with the [v1.6.3 update for 1.13-1.21 released on 31/8](https://modrinth.com/resourcepack/busana-melayu-fv/version/v1.6.3) which already fixes the problem
+
+* Fixed a very minor typo in the Indonesian translations that neither me nor the translator noticed
+  * It's the Chainmail Gandik being translated as "Gandi**l** Rantai"
+  * If you're a user of this pack on 1.7-1.12 and use the Indonesian language in-game, you might want to update to this version
+
+## v1.6.3 (31/8/2025)
+
+* Added copper variant for both the male and female attire set
+  * Currently not available in-game by default and requires enabling the "Drop 3 2025" setting in the "Experiments" section (until 1.21.110 released)
+
+Note: This pack's settings' description implementation used for displaying the description of subpacks and the credits are no longer supported as of 1.21.100. This feature may return in some form in a future update.
+
+## v1.6.2 (8/6/2025)
+
+* Updated Indonesian translations! Thanks to Dustin945!
+* Updated the credits text file
+
+## v1.6.1 (27/3/2025) \[Male Variant Only] \[NuruddinPlays]
+
+* Tweaked most of the leggings (Seluar) trim textures to make them still somewhat visible underneath the Samping
+
+## v1.6 (15/2/2025) \[NuruddinPlays]
+
+* Changed the texture of empty slot icons for all armor pieces into their respective replacements; eg. Helmet becomes Tengkolok for the male variant and Gandik for the female variant
+* Added support for armor trims (only for chestplate, leggings and boots replacements)
+  * The trims for helmet replacements are still invisible due to the vastly different shape of the replacement's textures for each material types
+  * \[Java] Since there is still no support for custom armor trim texture via CIT, some oddities may occur when changing the armor type via CIT to the opposite variant's counterpart
+    * For example: Using the female variant, changing from the Kasut to Samping (of the male variant) may cause some random floating pixels around what used to be the Kasut, when there's nothing there when it's a Samping
+* Added more strings to the language files to replace any mentions of armor pieces and related texts
+* Renamed `Baju` to `Baju Melayu`
+* Renamed `Seluar` to `Seluar Melayu`
+* Renamed `Chain` armors to `Chainmail` armors
+* Removed the lurking blockbench model file from the resource pack
+* \[Java] Updated the pack to support 1.21.4
+* \[Java] Added a credits file in the zip files
+* \[Bedrock] Bumped version number to v1.6 to match the Java pack's version
+* \[Bedrock] The male and female armor set have now been merged into one single pack
+  * You can choose which one to use in-game via the newly added pack settings slider
+  * Also used for when you also use the Senjata Melayu resource pack and have this pack above it to properly change all the icons in the smithing table
+  * The pack credits are also shown in the settings window
+* Resized all pack icons from 1080x1080 to 512x512 to reduce file size
+
+
+
+***
+
+## v1.1 (1/9/2024) \[NuruddinPlays]
+
+* Changed the diamond tengkolok texture to make the transition between diamond and netherite more seamless
+* Added the credits file into the zip file
+* Updated the pack icon
+* Added a new set of armor containing the female variant of the Malay attire
+* This is available as a separate standalone version from the main pack which contains the male variant
+
+
+
+***
+
+## v1.0 (20/7/2023) \[NuruddinPlays]
+
+* Initial release
+* Ported the pack to Bedrock Edition
+{% endtab %}
+{% endtabs %}
+
+##

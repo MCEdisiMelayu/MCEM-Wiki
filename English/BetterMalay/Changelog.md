@@ -1,10 +1,28 @@
 ---
 description: Changelogs for all BetterMalay Language Pack versions
 icon: scroll
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
 # Changelog
 
+{% tabs %}
+{% tab title="v1.2.x" %}
 ## v1.2.5 (12/12/2025) \[1.6-1.21].
 
 * \[ALL] Added new splash texts that was added in 1.21.11
@@ -58,9 +76,9 @@ Note: If there are no further changes between now and 1.21.9's full release, the
 * Updated the pack to support 1.21
 * Updated the pack icon for 1.20.x-1.21.x to reflect the 1.21 update, with some aspects of the 1.20 update still intact
 * Updated some splash texts
+{% endtab %}
 
-***
-
+{% tab title="v1.1 - v1.0" %}
 ## v1.1 (1/5/2024) \[1.6 - 1.20]
 
 * First release of 2024!
@@ -90,3 +108,5 @@ Note: If there are no further changes between now and 1.21.9's full release, the
 * Un-Jawi-fied the "Copyright Mojang AB" text for `zlm_arab` (Jawi Malay), due to the alignment issues which cause some characters to be rendered out of bounds (1.20.2+)
 * Additional splash texts are grabbed from the JawiCraft Language Pack's list of splash text
 * Added pack credits, both in-game and as a text file in each zip files
+{% endtab %}
+{% endtabs %}

@@ -1,3 +1,22 @@
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
 # 🇬🇧 English
 
 ![](https://imgur.com/0HxIaqK.png)

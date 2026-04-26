@@ -1,10 +1,28 @@
 ---
 description: Changelogs for all JawiCraft Language Pack versions
 icon: scroll
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
 # Changelog
 
+{% tabs %}
+{% tab title="v1.11.x" %}
 ## v1.11.5 (12/12/2025) \[1.7-1.21]
 
 * \[ALL] Added new splash texts that was added in 1.21.11
@@ -22,7 +40,7 @@ icon: scroll
 
 Note: If there are no further changes between now and 1.21.9's full release, the 1.20-1.21 version will be marked as compatible with 1.21.9 on Modrinth
 
-## v1.11.3 (21/2/2025) \[1.7 - 1.21]
+## v1.11.3 (11/7/2025) \[1.7 - 1.21]
 
 * Updated the pack to 1.21.6/.7
 * \[1.13+] Updated base translations to 1.21.7-rc2
@@ -59,9 +77,9 @@ Note: If there are no further changes between now and 1.21.9's full release, the
 * Updated the pack to support 1.21
 * Updated the pack icon for 1.20.x-1.21.x to reflect the 1.21 update, with some aspects of the 1.20 update still intact
 * Updated some splash texts
+{% endtab %}
 
-***
-
+{% tab title="v1.10 - v1.9" %}
 ## v1.10 (1/5/2024) \[1.7 - 1.20]
 
 * First release of 2024!
@@ -98,11 +116,9 @@ Note: If there are no further changes between now and 1.21.9's full release, the
   * 1.15-1.16, 1.19 & 1.20 (along side all the other versions) simply have the JawiCraft logo updated, to fix a kerning problem within the "کرف‌ت" text (which I never noticed before)
 * Removed the custom "loading screen splash" texture, as it was a deprecated feature from earlier versions
   * Might get a redesign at some point
+{% endtab %}
 
-***
-
-## 1.8
-
+{% tab title="v1.8.x" %}
 ### v1.8.4 (19/7/2023)
 
 \[​All Versions]
@@ -184,11 +200,9 @@ Happy Birthday JawiCraft! (this pack was released a year ago, on August 31st 202
   * This phase will come to the Pre-1.13 versions soon (hopefully)
 * This project is also now part of a collection project that I will start which I'll announce when its fully ready
 * Renamed the language to "بهاس ملايو (مليسيا)" to match the name in 1.19
+{% endtab %}
 
-***
-
-## 1.7
-
+{% tab title="v1.7.x" %}
 ### v1.7.3 \[1.13-1.18 + 1.19 Pre-release] (02/06/2022)
 
 * Updates translations
@@ -221,13 +235,13 @@ Happy Birthday JawiCraft! (this pack was released a year ago, on August 31st 202
   * Unconfirmed whether this works or not
 * Added support for the 1.19 Deep Dark Experimental Snapshot 1 (fork of 1.18.1)
   * All translations are provided by Ahmad Ali Karim
-  * Roman Malay translations for this snapshot is also available [here](https://www.curseforge.com/minecraft/texture-packs/jawicraft-language-pack/files/3668221)! (also provided by Ahmad Ali Karim)
+  * Latin Malay translations for this snapshot is also available [here](https://www.curseforge.com/minecraft/texture-packs/jawicraft-language-pack/files/3668221)! (also provided by Ahmad Ali Karim)
 
 \[​1.16.2 - 1.16.5]
 
 * Added support for the Combat Test 8c version (fork of 1.16.2)
 * Translations provided by Ahmad Ali Karim
-  * Roman Malay translations for this version is also available [here](https://www.curseforge.com/minecraft/texture-packs/jawicraft-language-pack/files/3668373)! (also provided by Ahmad Ali Karim)
+  * Latin Malay translations for this version is also available [here](https://www.curseforge.com/minecraft/texture-packs/jawicraft-language-pack/files/3668373)! (also provided by Ahmad Ali Karim)
 
 ### v1.7 \[1.13-1.18] (13/02/2022)
 
@@ -254,11 +268,9 @@ Happy Birthday JawiCraft! (this pack was released a year ago, on August 31st 202
   * This is done to keep compatability with the added custom language, and also with CurseForge, as they won't accept format 1 and 2 packs for some reason
 * Added a credits text file in the version's pack folder
 * Added a few splash texts to the pack
+{% endtab %}
 
-***
-
-## 1.6
-
+{% tab title="v1.6.x" %}
 ### v1.6.1 \[1.18-1.18.1] (11/12/2021)
 
 * Updated the pack to 1.18.1
@@ -267,8 +279,7 @@ Happy Birthday JawiCraft! (this pack was released a year ago, on August 31st 202
 
 ### v1.6 - Major Update #1 \[1.6-1.18] (2/12/2021)
 
--Project now updated to the 1.18 release
-
+* Project now updated to the 1.18 release
 * Translation Updates
 * Base translations for version 1.13 - 1.18 is now updated to the 1.18 pre-5 translations
 * Translations for the "Singleplayer" and "Multiplayer" now changed for all versions
@@ -276,11 +287,9 @@ Happy Birthday JawiCraft! (this pack was released a year ago, on August 31st 202
 * "Multiplayer" - "Permainan Jamak/ڤرماءينن جمع" -> "Multipemain/مولتيڤيماءين"
 * Implemented a fix for the ZWNJ bug [(MC-226359)](https://www.curseforge.com/linkout?remoteUrl=https%253a%252f%252fbugs.mojang.com%252fbrowse%252fMC-226359) by modifying the glyph\_sizes.bin and the unicode\_page\_20.png files
 * But it cannot be properly implemented into the 1.6-1.8 and 1.9-1.10 version because of the [MC-41270](https://www.curseforge.com/linkout?remoteUrl=https%253a%252f%252fbugs.mojang.com%252fbrowse%252fMC-41270) bug, which cause inconsistencies in loading the resource packs' glyph\_sizes.bin file
+{% endtab %}
 
-***
-
-## 1.5
-
+{% tab title="v1.5.x" %}
 ### v1.5.3 \[1.18 Pre-release] (17/11/2021)
 
 * Added string from the Pre-release 2
@@ -305,9 +314,9 @@ Happy Birthday JawiCraft! (this pack was released a year ago, on August 31st 202
 * Fixes a lot of translation errors
 * Updated all resource pack logos
 * Might be updated again soon (or not)
+{% endtab %}
 
-***
-
+{% tab title="v1.4 - v1.0" %}
 ## v1.4 Hotfix \[12/9/2021] (1.13-1.17)
 
 * Fixes a tiny typo... The typo was in the name of the " A Terrible Fortress" advancement, which is spelled as "بوکو/buku" (book) instead of "کوبو/kubu" (fortress)
@@ -341,3 +350,5 @@ Happy Birthday JawiCraft! (this pack was released a year ago, on August 31st 202
 ## v1.0 \[31/08/21]
 
 The Pack's Initial Release
+{% endtab %}
+{% endtabs %}

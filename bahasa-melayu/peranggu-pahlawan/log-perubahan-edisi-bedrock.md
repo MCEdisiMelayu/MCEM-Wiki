@@ -1,6 +1,22 @@
 ---
 description: 'Log perubahan untuk semua versi Peranggu Pahlawan: Bedrock Edition'
 icon: scroll
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
 # Log Perubahan (Edisi Bedrock)
@@ -11,10 +27,10 @@ icon: scroll
 
 * Nombor versi telah dinaikkan kepada v1.3.0 agar sepadan dengan nombor versi mod Java
   * Nombor versi pek kini disertakan dalam nama pek dalam permainan untuk kedua-dua pek sumber dan pek tingkah laku
-* Addon dikemas kini ke 1.21.130 (Mounts of Mayhem)
-* Added copper keris, parang and attire sets
+* Addon telah dikemas kini ke 1.21.130 (Mounts of Mayhem)
+* Set tembaga untuk keris, parang dan busana telah ditambah
   * Mempunyai statistik yang hampir sama dengan vanilla counterpart mereka, selain daripada perbezaan yang disenaraikan dalam halaman addon di PlanetMinecraft
-* Ruang nama addon telah diubah dari ppbe kepada peranggu\_pahlawan agar sepadan dengan mod Java
+* Ruang nama addon telah diubah dari `ppbe` kepada `peranggu_pahlawan` agar sepadan dengan mod Java
 * Semua item dalam mod ini telah disepadukan sepenuhnya ke dalam gameplay vanila berikut
   * Villager Leatherworker dan Armorer kini boleh menjual kepingan busana
   * Villager Weaponsmith and Toolsmith Villagers can now sell keris and parang
@@ -30,19 +46,19 @@ icon: scroll
 
 #### Perubahan
 
-* Masalah model item keris dan parang yang tidak kelihatan sejak 1.21.100 telah diperbaiki
-* Terjemahan Chainmail Gandik dalam bahasa Indonesia telah diperbaiki
+* Masalah model item keris dan parang yang tidak kelihatan sejak 1.21.100 telah dibaiki
+* Terjemahan Chainmail Gandik dalam bahasa Indonesia telah dibaiki
   * Item ini sebelum ini diterjemah sebagai "Gandil Rantai" bukannya "Gandik Rantai"
 * Nombor min\_engine\_version dalam pek sumber addon telah dikemas kini untuk menyokong Vibrant Visuals
 * Credits.txt telah diubah sedikit
 
 #### Penghapusan
 
-* Crafting recipes for chainmail armor are now removed, since they can now be found in normal gameplay
+* Resipi pertukangan untuk busana rantai telah dihapus, memandangkan ia kini boleh ditemukan dalam gameplay biasa
 
 ## v1.1.0 (9/6/2025) \[MCBE v1.21.80+]
 
-* Telah dikemas kini agar serasi dengan versi 1.21.80 dan ke atas
+* Addon telah dikemas kini agar serasi dengan versi 1.21.80 dan ke atas
 * Terjemahan bahasa Indonesia telah ditambah! Terima kasih Dustin945!
 * Parang kini mempunyai kebolehan istimewa! Ia kini boleh melombong kayu balak dalam kawasan 3x3
   * Kelajuan perlombongan parang kini telah dikurangkan dengan ketara untuk menjadikannya tidak terlalu op tanpa sihir Kecekapan/Efficiency
