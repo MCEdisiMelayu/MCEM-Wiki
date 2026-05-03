@@ -23,6 +23,19 @@ layout:
 
 {% tabs %}
 {% tab title="Java Edition" %}
+## v1.7.0 (1/5/2026) \[1.6-26.1] \[NuruddinPlays]
+
+* Updated the pack to support the 26.1 (Tiny Takeover) update
+  * Added support for the new armor models for baby mobs
+    * Known Issue: The samping and kasut will be invisible when worn by baby mobs. This is due to the way the armor textures are mapped to the model, which made it impossible to adapt the samping and kasut shapes
+* \[ALL] Improved/fixed OptiFine support for the "opposite attire sets'" CIT renames
+* \[1.13+] Renamed the filename and label on the pack icon from "1.13-1.21" to "1.13+"
+* \[1.13+] Merged some of the overlay folders into the main assets folder
+* \[1.13+] Added support for Old-Spelling Indonesian (Bahasa Indonesia edjaän lama) language, thanks to Dustin945
+* \[ALL] Renamed "Armorer" to "Attire Smith" to better reflect the armor replacements
+* \[1.13+] (Female Variant Only) Removed some extra pixels on the Copper Kasut model texture, since it would look off if you're only wearing a Copper Kasut
+* \[1.13+] (Male Variant Only) Removed the left-over `chainmail.pdn` file
+
 ## v1.6.3 (Hotfix; Female Variant Only) (6/9/2025) \[1.6-1.12] \[NuruddinPlays]
 
 Not to be confused with the [v1.6.3 update for 1.13-1.21 released on 31/8](https://modrinth.com/resourcepack/busana-melayu-fv/version/v1.6.3) which already fixes the problem
@@ -130,7 +143,18 @@ Note: If there are no further changes between now and 1.21.9's full release, thi
 {% endtab %}
 
 {% tab title="Bedrock Edition" %}
-## v1.6.3\_01 (13/12/2025)
+## v1.7.0 (2/5/2026) \[NuruddinPlays]
+
+Updated the pack to support the 26.10 (Tiny Takeover) update
+
+* Added support for the new armor models for baby mobs
+  * Known Issue: The samping and kasut will be invisible when worn by baby mobs. This is due to the way the armor textures are mapped to the model, which made it impossible to adapt the samping and kasut shapes
+* Added the icon\_recipe\_equipment.png file to replace the helmet with a tengkolok or gandik (and the sword with a keris if any Senjata Melayu subpacks are used)
+* More mentions of "armor" are now changed to "attires" for all supported languages
+* Renamed "Armorer" to "Attire Smith" to better reflect the armor replacements
+* (Female Variant Only) Removed some extra pixels on the Copper Kasut model texture, since it would look off if you're only wearing a Copper Kasut
+
+## v1.6.3\_01 (13/12/2025) \[NuruddinPlays]
 
 * Updated the in-game pack name slightly to make it consistent with the Peranggu Pahlawan addon
 * Updated the pack's min\_engine\_version to support Vibrant Visuals
@@ -139,7 +163,7 @@ Note: If there are no further changes between now and 1.21.9's full release, thi
 * The pack version number is now included in the in-game pack name
 * Adjusted Credits.txt slightly
 
-## v1.6.3 (Hotfix; Female Variant Only) (6/9/2025)
+## v1.6.3 (Hotfix; Female Variant Only) (6/9/2025) \[NuruddinPlays]
 
 Not to be confused with the [v1.6.3 update for 1.13-1.21 released on 31/8](https://modrinth.com/resourcepack/busana-melayu-fv/version/v1.6.3) which already fixes the problem
 
@@ -147,14 +171,14 @@ Not to be confused with the [v1.6.3 update for 1.13-1.21 released on 31/8](https
   * It's the Chainmail Gandik being translated as "Gandi**l** Rantai"
   * If you're a user of this pack on 1.7-1.12 and use the Indonesian language in-game, you might want to update to this version
 
-## v1.6.3 (31/8/2025)
+## v1.6.3 (31/8/2025) \[NuruddinPlays]
 
 * Added copper variant for both the male and female attire set
   * Currently not available in-game by default and requires enabling the "Drop 3 2025" setting in the "Experiments" section (until 1.21.110 released)
 
 Note: This pack's settings' description implementation used for displaying the description of subpacks and the credits are no longer supported as of 1.21.100. This feature may return in some form in a future update.
 
-## v1.6.2 (8/6/2025)
+## v1.6.2 (8/6/2025) \[NuruddinPlays]
 
 * Updated Indonesian translations! Thanks to Dustin945!
 * Updated the credits text file

@@ -21,31 +21,31 @@ layout:
 
 # Download Pages
 
-## JawiCraft Language Pack - v1.11.5
+## JawiCraft Language Pack - v1.11.6
 
 [![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/resourcepack/jawicraft-language-pack/)
 
-## BetterMalay Language Pack - v1.2.5
+## BetterMalay Language Pack - v1.2.6
 
 [![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/resourcepack/bettermalay-language-pack/)
 
-## Senjata Melayu - v1.4.2
+## Senjata Melayu - v1.5.0
 
 [![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/resourcepack/senjata-melayu/)
 
-## Senjata Melayu (Bedrock) - v1.4.2\_01
+## Senjata Melayu (Bedrock) - v1.5.0
 
-[![](https://github.com/blryface/blurrybadges/blob/main/badges/64h/Avaliable%20On%20PMC.png?raw=true)](https://www.planetminecraft.com/texture-pack/bedrock-keris-melayu-malay-keris/)
+[![](https://github.com/blryface/blurrybadges/blob/main/badges/64h/Avaliable%20On%20PMC.png?raw=true)](https://www.planetminecraft.com/texture-pack/senjata-melayu-bedrock/)
 
-## Busana Melayu (Java; Male Attire) - v1.6.3
+## Busana Melayu (Java; Male Attire) - v1.7.0
 
 [![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/resourcepack/busana-melayu/)
 
-## Busana Melayu (Java; Female Attire) - v1.6.3
+## Busana Melayu (Java; Female Attire) - v1.7.0
 
 [![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/resourcepack/busana-melayu-fv/) &#x20;
 
-## Busana Melayu (Bedrock) - v1.6.3\_01
+## Busana Melayu (Bedrock) - v1.7.0
 
 [![](https://github.com/blryface/blurrybadges/blob/main/badges/64h/Avaliable%20On%20PMC.png?raw=true)](https://www.planetminecraft.com/texture-pack/busana-melayu-bedrock-port)
 
@@ -53,11 +53,11 @@ layout:
 
 [![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/resourcepack/senjata-busana-melayu-cit)
 
-## Peranggu Pahlawan - v1.3.0
+## Peranggu Pahlawan - v1.4.0
 
 [![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/mod/peranggu-pahlawan)
 
-## Peranggu Pahlawan: Bedrock Edition - v1.3.0
+## Peranggu Pahlawan: Bedrock Edition - v1.4.0
 
 [![](https://github.com/blryface/blurrybadges/blob/main/badges/64h/Avaliable%20On%20PMC.png?raw=true)](https://www.planetminecraft.com/mod/peranggu-pahlawan-bedrock-edition/)
 

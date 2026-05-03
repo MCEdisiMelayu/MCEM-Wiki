@@ -21,6 +21,33 @@ layout:
 
 # Changelog (Java Edition)
 
+## v1.4.0 (1/5/2026) \[Fabric & Quilt 1.20.1/1.21.1/1.21.4-1.21.11/26.1, Forge 1.20.1, NeoForge 1.21.1]
+
+### Additions
+
+* Ported the mod to the 26.1 (Tiny Takeover) update alongside it's two hotfix versions, 26.1.1 and 26.1.2 for the Fabric and Quilt mod loader
+  * The 26.1 version will recieve a patch update once Sinytra Connector's 26.1 version becomes available
+  * Added support for baby mobs' new armor model
+    * Known Issue: The samping and kasut will be invisible when worn by baby mobs. This is due to the way the armor textures are mapped to the model, which made it impossible to adapt the samping and kasut shapes
+* \[ALL] Added Legacy4J compatibility!
+  * This mod now supports Legacy Console Edition's crating interface!
+  * The creative tab is changed to better fit L4J's 10-items-per-row interface (instead of vanilla's 9-items-per-row interface)
+    * This change is only applied when using the Legacy4J mod
+* \[ALL] Added Combatify compatibility!
+
+### Changes
+
+* \[26.1] Migrated the villager trades from Fabric code to the new data-driven system
+* \[26.1] Updated the leather attires' dyeing recipes to the new system
+* \[ALL] Removed some extra pixels on the Copper Kasut model texture, since it would look off if you're only wearing a Copper Kasut
+* \[ALL] Updated an alias in the fabric.mod.json and (neoforge.)mods.toml credits section
+
+### Fixes
+
+* \[1.21.1] Fixed some armor toughness and knockback resistance values
+  * Chainmail armor now no longer have +2 armor toughness
+  * Netherite armor is now no longer overpowered, now having vanilla netherite's +1 knockback resistance instead of **+10** (due to a typo in the code: 0.1F vs 1.0F)
+
 ## v1.3.0 (12/12/2025) \[Fabric & Quilt 1.20.1/1.21.1/1.21.4-1.21.11, Forge 1.20.1, NeoForge 1.21.1]
 
 #### Additions

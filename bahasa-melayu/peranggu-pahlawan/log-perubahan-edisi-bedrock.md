@@ -21,6 +21,30 @@ layout:
 
 # Log Perubahan (Edisi Bedrock)
 
+## v1.4.0 (2/5/2026) \[MCBE v26.10+]
+
+Addon telah dikemas kini untuk menyokong kemas kini 26.10 (Tiny Takeover)
+
+### Tambahan
+
+* Sokongan untuk model zirah baharu untuk makhluk kecil (baby mob) telah ditambah
+  * Isu yang Diketahui: Samping dan kasut tidak akan kelihatan apabila dipakai oleh makhluk kecil. Ini disebabkan oleh cara tekstur dipetakan kepada model zirah, yang menjadikannya mustahil untuk memuatkan bentuk samping dan kasut
+* Organisasi Item yang Lebih Baik dalam tab Kreatif!
+  * Semua item kini juga dikumpulkan di dalam "collapsable menu"
+
+### Perubahan
+
+* Pembaikan item berdefinisi tinggi yang disertakan dalam pek telah dialih keluar memandangkan pepijat kini telah dibaiki sejak 26.0 (lihat [MCPE-169754](https://bugs.mojang.com/browse/MCPE/issues/MCPE-169754) | Mirror: [Mojira.dev](https://mojira.dev/MCPE-169754))
+* Jadual rampasan dikemas kini agar sepadan dengan vanila 26.10
+* Alias dalam penghargaan telah dikemas kini
+
+### Pembaikan
+
+* Piglin kini sepatutnya tidak lagi menyerang pemain apabila memakai salah satu busana
+* Piglin kini boleh mengambil, melihat dan memakai/menggunakan keris, parang dan busana emas
+* Pedang kini tidak lagi boleh memecahkan blok dalam mod kreatif
+* Keris, parang dan busana Netherit tidak lagi terbakar dalam lahar
+
 ## v1.3.0 (13/12/2025) \[MCBE v1.21.130+]
 
 #### Penambahan

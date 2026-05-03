@@ -63,7 +63,7 @@ layout:
 <figure><img src="../../.gitbook/assets/peranggu_pahlawan_prism.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Pelancar Minecraft (Vanila)" %}
+{% tab title="Pelancar Minecraft (vanila)" %}
 Pelancar Minecraft (vanila)
 
 

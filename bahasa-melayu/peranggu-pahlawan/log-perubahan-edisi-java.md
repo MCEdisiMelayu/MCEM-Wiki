@@ -21,6 +21,33 @@ layout:
 
 # Log Perubahan (Edisi Java)
 
+## v1.4.0 (1/5/2026) \[Fabric & Quilt 1.20.1/1.21.1/1.21.4-1.21.11/26.1, Forge 1.20.1, NeoForge 1.21.1]
+
+### Penambahan
+
+* Mod telah dikemas kini ke versi 26.1 (Tiny Takeover) bersama dua versi hotfixnya, 26.1.1 dan 26.1.2 untuk pemuat mod Fabrik dan Quilt
+  * Versi 26.1 akan menerima kemas kini tampalan sebaik sahaja versi Sinytra Connector untuk 26.1 tersedia
+  * Sokongan untuk model zirah baharu untuk makhluk kecil (baby mob) telah ditambah
+    * Isu yang Diketahui: Samping dan kasut tidak akan kelihatan apabila dipakai oleh makhluk kecil. Ini disebabkan oleh cara tekstur dipetakan kepada model zirah, yang menjadikannya mustahil untuk memuatkan bentuk samping dan kasut
+* \[ALL] Sokongan Legacy4J telah ditambah!
+  * Mod ini kini menyokong antara muka pertukangan seperti Legacy Console Edition!
+  * Tab kreatif telah diubah agar lebih sesuai dengan antara muka 10 item setiap baris dalam L4J (bukannya antara muka 9 item setiap baris vanilla)
+    * Perubahan ini hanya akan terpakai apabila menggunakan mod Legacy4J
+* \[ALL] Sokongan Combatify telah ditambah!
+
+### Perubahan
+
+* \[26.1] Dagangan penduduk kampung telah dipindahkan daripada kod Fabric kepada sistem data-driven
+* \[26.1] Resipi pewarnaan busana kulit telah dikemas kini kepada sistem baharu
+* \[ALL] Beberapa piksel tambahan pada tekstur model Kasut Tembaga telah dipadamkan, kerana ia akan kelihatan tidak kena bila anda hanya memakai Kasut Tembaga
+* \[ALL] Alias dalam bahagian penghargaan fabric.mod.json dan (neoforge.)mods.toml telah dikemas kini
+
+### Pembaikan
+
+* \[1.21.1] Beberapa nilai ketahanan zirah dan ketahanan tolakan
+* Busana Rantai kini tidak lagi mempunyai +2 ketahanan zirah
+* Busana Netherit kini tidak lagi terlalu overpowered, kini mempunyai +1 ketahanan tolakan seperti zirah netherit vanila dan bukannya **+10** (disebabkan oleh salah taip dalam kod: 0.1F vs 1.0F)
+
 ## v1.3.0 (12/12/2025) \[Fabric & Quilt 1.20.1/1.21.1/1.21.4-1.21.11, Forge 1.20.1, NeoForge 1.21.1]
 
 #### Penambahan

@@ -21,6 +21,30 @@ layout:
 
 # Changelog (Bedrock Edition)
 
+## v1.4.0 (2/5/2025) \[MCBE v26.10+]
+
+Updated the addon to support the 26.10 (Tiny Takeover) update
+
+### Additions
+
+* Added support for baby mobs' new armor model
+  * Known Issue: The samping and kasut will be invisible when worn by baby mobs. This is due to the way the armor textures are mapped to the model, which made it impossible to adapt the samping and kasut shapes
+* Better Organization in the Creative tab!
+  * All items are now also grouped inside collapsable menus
+
+### Changes
+
+* Removed the high-definition item's fix included in the pack since the bug is now fixed since 26.0 (see [MCPE-169754](https://bugs.mojang.com/browse/MCPE/issues/MCPE-169754) | Mirror: [Mojira.dev](https://mojira.dev/MCPE-169754))
+* Updated loot tables to match vanilla 26.10
+* Updated an alias in the credits
+
+### Fixes
+
+* Piglins should now no longer attack the player when wearing one of the attires
+* Piglins now can pick-up, admire, and equip golden keris, parang and attires
+* Swords now no longer break blocks in creative mode
+* Netherite keris, parang and attires no longer burn in lava
+
 ## v1.3.0 (13/12/2025) \[MCBE v1.21.130+]
 
 #### Additions

@@ -23,6 +23,19 @@ layout:
 
 {% tabs %}
 {% tab title="Edisi Java" %}
+## v1.7.0 (1/5/2026) \[1.6-26.1]
+
+* Pek telah dikemas kini untuk menyokong kemas kini 26.1 (Tiny Takeover)
+* Sokongan untuk model zirah baharu untuk makhluk kecil (baby mob) telah ditambah
+  * Isu yang Diketahui: Samping dan kasut tidak akan kelihatan apabila dipakai oleh makhluk kecil. Ini disebabkan oleh cara tekstur dipetakan kepada model zirah, yang menjadikannya mustahil untuk memuatkan bentuk samping dan kasut
+* \[ALL] Sokongan OptiFine yang dipertingkatkan/diperbaiki untuk ciri CIT bagi "set busana bertentangan"
+* \[1.13+] Nama fail dan label pada ikon pek telah dinamakan semula daripada "1.13-1.21" kepada "1.13+"
+* \[1.13+] Beberapa folder overlay telah digabungkan ke dalam folder aset utama
+* \[1.13+] Sokongan untuk bahasa Indonesia tempoh dulu (Bahasa Indonesia edjaän lama) telah ditambah, terima kasih kepada Dustin945
+* \[ALL] Nama pekerjaan "Armorer" (Tukang Zirah) dinamakan semula kepada "Attire Smith" (Tukang Busana) untuk mencerminkan penggantian zirah kepada busana
+* \[1.13+] (Varian Perempuan Sahaja) Beberapa piksel tambahan pada tekstur model Kasut Tembaga telah dipadamkan, kerana ia akan kelihatan tidak kena bila anda hanya memakai Kasut Tembaga
+* \[1.13+] (Varian Lelaki Sahaja) Fail `chainmail.pdn` yang tinggal telah dialih keluar
+
 ## v1.6.3 (Hotfix; Female Variant Only) (6/9/2025) \[1.6-1.12]
 
 Jangan dikelirukan dengan kemas kini v1.6.3 untuk 1.13-1.21 yang diterbitkan pada 31/8 yang sudah memperbaiki masalah ini
@@ -115,6 +128,17 @@ Catatan: Jika tiada sebarang perubahan berlaku antara sekarang dan terbitan penu
 {% endtab %}
 
 {% tab title="Edisi Bedrock" %}
+## v1.7.0 (2/5/2026)
+
+Pek telah dikemas kini untuk menyokong kemas kini 26.10 (Tiny Takeover)
+
+* Sokongan untuk model zirah baharu untuk makhluk kecil (baby mob) telah ditambah
+  * Isu yang Diketahui: Samping dan kasut tidak akan kelihatan apabila dipakai oleh makhluk kecil. Ini disebabkan oleh cara tekstur dipetakan kepada model zirah, yang menjadikannya mustahil untuk memuatkan bentuk samping dan kasut
+* Fail icon\_recipe\_equipment.png telah ditambah untuk menggantikan helmet/ketopong dengan tengkolok atau gandik (dan menggantikan pedang dengan keris jika subpek Senjata Melayu digunakan)
+* Lebih banyak sebutan "armor" atau "zirah" kini ditukar kepada "attire" atau "busana" untuk semua bahasa yang disokong
+* Nama pekerjaan "Armorer" (Tukang Zirah) dinamakan semula kepada "Attire Smith" (Tukang Busana) untuk mencerminkan penggantian zirah kepada busana
+* (Varian Perempuan Sahaja) Beberapa piksel tambahan pada tekstur model Kasut Tembaga telah dipadamkan, kerana ia akan kelihatan tidak kena bila anda hanya memakai Kasut Tembaga
+
 ## v1.6.3\_01 (13/12/2025) \[NuruddinPlays]
 
 * Nama pek dalam permainan telah dikemas kini untuk menjadikannya konsisten dengan addon Peranggu Pahlawan

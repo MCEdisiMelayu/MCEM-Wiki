@@ -23,6 +23,15 @@ layout:
 
 {% tabs %}
 {% tab title="v1.2.x" %}
+## v1.2.6 (1/5/2026) \[1.6-26.1]
+
+* \[ALL] Updated translation to the revision as of 26.2-snapshot-2
+* Fixed many typos and mistakes in the translation
+* \[1.20+] Updated the pack icon to reflect the changes since 1.21
+  * The label on the pack icon is now changed from "1.20-1.21" to "1.20+"
+* \[1.20+] Renamed the filename from \[1.20-1.21] to \[1.20+]
+* \[ALL] Updated splash texts
+
 ## v1.2.5 (12/12/2025) \[1.6-1.21].
 
 * \[ALL] Added new splash texts that was added in 1.21.11

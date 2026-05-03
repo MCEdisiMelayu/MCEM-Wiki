@@ -23,6 +23,15 @@ layout:
 
 {% tabs %}
 {% tab title="v1.2.x" %}
+## v1.2.6 (1/5/2026) \[1.7-26.1]
+
+* \[ALL] Terjemahan yang dikemas kini pada semakan semula mulai 26.2-snapshot-2
+* Banyak kesilapan dalam terjemahan telah diperbaiki
+* \[1.20+] Ikon pek telah dikemas kini untuk mencerminkan perubahan sejak 1.21
+  * Label pada ikon pek kini telah diubah daripada "1.20-1.21" kepada "1.20+"
+* \[1.20+] Nama fail telah diubah daripada \[1.20-1.21] kepada \[1.20+]
+* \[ALL] Teks tampilan telah dikemas kini
+
 ## v1.2.5 (12/12/2025) \[1.6-1.21]
 
 * \[ALL] Teks tampilan yang ditambahkan dalam versi 1.21.11 telah ditambah ke dalam pek

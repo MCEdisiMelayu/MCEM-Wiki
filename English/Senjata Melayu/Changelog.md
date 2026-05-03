@@ -23,6 +23,18 @@ layout:
 
 {% tabs %}
 {% tab title="Java Edition" %}
+## v1.5.0 (1/5/2026) \[1.7-26.1]
+
+* The 1.13+ pack is now split into two versions: 1.13-1.16.4 and 1.16.5+
+* \[1.16.5+] A new weapon replacement is now here: Lembing! This will replace the trident
+  * Requires OptiFine for MC 1.16.5+, or the [EMF](https://modrinth.com/mod/entity-model-features/)+[ETF](https://modrinth.com/mod/entitytexturefeatures) mods for MC 1.18.2+
+  * If neither of the mods above are installed, the vanilla trident model will be used instead
+  * All mentions of "Tridents" are now changed to "Lembing" for all supported languages
+* \[1.16.5+] Renamed the 1.16.5+ pack from "1.21" to "26.1", the label on the pack icon is also changed
+* \[1.16.5+] Added support for Old-Spelling Indonesian (Bahasa Indonesia edjaän lama) language, thanks to Dustin945
+* \[ALL] Improved/fixed OptiFine support for the "old keris'" CIT renames
+* \[ALL] Updated an alias in the credits
+
 ## v1.4.2 (31/8/2025) \[1.13-1.21 + 25w35a]
 
 * Updated the pack.mcmeta file to work with the new supported versions format introduced in 25w31a
@@ -101,7 +113,13 @@ Note: If there are no further changes between now and 1.21.9's full release, thi
 {% endtab %}
 
 {% tab title="Bedrock Edition" %}
+## v1.5.0 (2/5/2026)
 
+* A new weapon replacement is now here: Lembing! This will replace the trident
+  * All mentions of "tridents" are now changed to "lembing" for all supported languages
+* More mentions of "swords" and "axes" are now changed to "keris" and "parang" respectively for all supported languages
+* Updated the icon\_recipe\_equipment.png file to add back the helmet (and Busana Melayu's equivalents if relevant subpacks are used)
+* Updated an alias in the credits
 
 ## v1.4.2\_01 (13/12/2025)
 

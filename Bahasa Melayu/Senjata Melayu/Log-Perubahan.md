@@ -23,6 +23,18 @@ layout:
 
 {% tabs %}
 {% tab title="Edisi Java" %}
+## v1.5.0 (1/5/2026) \[1.7-26.1]
+
+* Pek 1.13+ kini dibahagikan kepada dua versi: 1.13-1.16.4 dan 1.16.5+
+* \[1.16.5+] Pengganti senjata baharu kini telah tiba: Lembing! Ini akan menggantikan trident/trisula
+  * Memerlukan OptiFine untuk MC 1.16.5+, atau mod [EMF](https://modrinth.com/mod/entity-model-features/)+[ETF](https://modrinth.com/mod/entitytexturefeatures) untuk MC 1.18.2+
+  * Jika tiada satu pun mod di atas dipasang, model trisula vanila akan digunakan
+  * Semua sebutan "Trident" atau "Trisula" kini ditukar kepada "Lembing" untuk semua bahasa yang disokong
+* \[1.16.5+] Pek 1.16.5+ telah dinamakan semula daripada "1.21" kepada "26.1", label pada ikon pek juga telah ditukar
+* \[1.16.5+] Sokongan untuk bahasa Indonesia tempoh dulu (Bahasa Indonesia edjaän lama) telah ditambah, terima kasih kepada Dustin945
+* \[ALL] Sokongan OptiFine yang dipertingkatkan/diperbaiki untuk ciri CIT bagi "keris lama"
+* \[ALL] Alias dalam fail penghargaan telah dikemas kini
+
 ## v1.4.2 (31/8/2025) \[1.13-1.21]
 
 * Fail pack.mcmeta telah dikemas kini untuk menyokong penformatan versi yang disokong yang diperkenalkan dalam versi 25w31a
@@ -89,6 +101,14 @@ Catatan: Jika tiada sebarang perubahan berlaku antara sekarang dan terbitan penu
 {% endtab %}
 
 {% tab title="Edisi Bedrock" %}
+## v1.5.0 (2/5/2026)
+
+* Pengganti senjata baharu kini telah tiba: Lembing! Ini akan menggantikan trident/trisula
+  * Semua sebutan "Trident" atau "Trisula" kini ditukar kepada "Lembing" untuk semua bahasa yang disokong
+* Lebih banyak sebutan "pedang" dan "kapak" kini masing-masing ditukar kepada "keris" dan "parang" untuk semua bahasa yang disokong
+* Fail icon\_recipe\_equipment.png telah dikemas kini untuk menambah kembali ikon helmet/ketopong (dan tengkolok atau gandik apabila subpek Busana Melayu digunakan)
+* Alias dalam fail penghargaan telah dikemas kini
+
 ## v1.4.2\_01 (13/12/2025)
 
 * Nama pek dalam permainan telah dikemas kini untuk menjadikannya konsisten dengan addon Peranggu Pahlawan
