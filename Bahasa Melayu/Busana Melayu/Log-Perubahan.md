@@ -17,12 +17,18 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
 ---
 
 # Log Perubahan
 
 {% tabs %}
 {% tab title="Edisi Java" %}
+## v1.7.1 (31/8/2026) \[1.13-26.2]
+
+* Kemas kini tampalan yang kecil yang betul-betul menambah sokongan Bahasa Indonesia edjaän lama yang secara tidak sengaja tercicir dari kemas kini sebelumnya, sekali lagi terima kasih kepada Dustin945 untuk terjemahannya
+
 ## v1.7.0 (1/5/2026) \[1.6-26.1]
 
 * Pek telah dikemas kini untuk menyokong kemas kini 26.1 (Tiny Takeover)
@@ -31,7 +37,7 @@ layout:
 * \[ALL] Sokongan OptiFine yang dipertingkatkan/diperbaiki untuk ciri CIT bagi "set busana bertentangan"
 * \[1.13+] Nama fail dan label pada ikon pek telah dinamakan semula daripada "1.13-1.21" kepada "1.13+"
 * \[1.13+] Beberapa folder overlay telah digabungkan ke dalam folder aset utama
-* \[1.13+] Sokongan untuk bahasa Indonesia tempoh dulu (Bahasa Indonesia edjaän lama) telah ditambah, terima kasih kepada Dustin945
+* ~~\[1.13+] Sokongan untuk bahasa Indonesia tempoh dulu (Bahasa Indonesia edjaän lama) telah ditambah, terima kasih kepada Dustin945~~
 * \[ALL] Nama pekerjaan "Armorer" (Tukang Zirah) dinamakan semula kepada "Attire Smith" (Tukang Busana) untuk mencerminkan penggantian zirah kepada busana
 * \[1.13+] (Varian Perempuan Sahaja) Beberapa piksel tambahan pada tekstur model Kasut Tembaga telah dipadamkan, kerana ia akan kelihatan tidak kena bila anda hanya memakai Kasut Tembaga
 * \[1.13+] (Varian Lelaki Sahaja) Fail `chainmail.pdn` yang tinggal telah dialih keluar

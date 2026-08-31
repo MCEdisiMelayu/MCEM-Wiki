@@ -17,6 +17,8 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
 ---
 
 # Log Perubahan
@@ -25,9 +27,19 @@ layout:
 
 {% tabs %}
 {% tab title="v1.11.x" %}
+## v1.11.7 (31/8/2026) \[1.7-26.2]
+
+#### Selamat Ulang Tahun JawiCraft Kali Ke-5! Video istimewa sempena ulang tahun ini akan dimuat naik ke [channel YouTube saya](https://youtube.com/@NuruddinPlays) pada 16hb September (kalau tak ada apa-apa halangan)
+
+* \[1.13+] Terjemahan telah dikemas kini kepada semakan terkini setakat 26.3-snapshot-10
+  * Versi pek ini hanya menambah string yang ditambah dalam versi 26.2
+* \[1.20+] Fail penghargaan dalam permainan telah dikemas kini kepada semakan setakat 26.2
+* \[ALL] Teks tampilan telah dikemas kini
+  * Beberapa teks tampilan pendua telah dialih keluar
+
 ## v1.11.6 (1/5/2026) \[1.7-26.1]
 
-* \[ALL] Terjemahan yang dikemas kini pada semakan semula mulai 26.2-snapshot-2
+* \[ALL] Terjemahan telah dikemas kini kepada semakan terkini setakat 26.2-snapshot-2
 * Banyak kesilapan dalam terjemahan telah diperbaiki
 * \[1.20+] Ikon pek telah dikemas kini untuk mencerminkan perubahan sejak 1.21
   * Label pada ikon pek kini telah diubah daripada "1.20-1.21" kepada "1.20+"
@@ -55,7 +67,7 @@ Catatan: Jika tiada sebarang perubahan berlaku antara sekarang dan terbitan penu
 
 * Pek telah dikemas kini ke versi 1.21.6/.7
 * \[1.13+] Fail terjemahan asas telah dikemas kini ke versi 1.21.7-rc2
-* \[1.20+] Penghargaan dalam permainan telah dikemas kini ke revisi 1.21.6
+* \[1.20+] Penghargaan dalam permainan telah dikemas kini ke semakan setakat 1.21.6
 * \[1.20+] Teks hak cipta versi Jawi telah ditambahkan semula
   * Sebelum ini diterjemah kepada tulisan Rumi kerana masalah penjajaran teks tulisan Arab yang menyebabkan dua aksara pertama (حق) keluar daripada kawasan skrin
   * Kini teks tersebut mempunyai beberapa aksara ruang ditambah di awal sebagai padding bagi membawa kedua aksara tersebut kembali ke dalam kawasan skrin
@@ -76,7 +88,7 @@ Catatan: Jika tiada sebarang perubahan berlaku antara sekarang dan terbitan penu
 * \[1.13-1.19] Fail penuh ms\_my.json daripada pek BetterMalay telah ditambah bagi memastikan terjemahan bahasa Melayu Rumi sentiasa dikemas kini
 * \[1.20+] Fail glyph\_size.bin dan unicode\_page\_xx.png telah dihapus memandangkan ia sudah tidak lagi digunakan sejak 1.20, dan sejak dari itu juga hamzah tiga suku kini dipaparkan dalam permainan dengan betul tanpa pembetulan yang disediakan pek ini
 * \[1.20+] Semua rentetan teks dalam Minecraft 1.19.2 dan ke atas telah dihapus dari fail ms\_my.json, kerana terjemahan bahasa Melayu Rumi kini sentiasa dikemas kini untuk semua versi selepas 1.19.2
-* \[1.20+] Penghargaan telah dikemas kini untuk menggunakan revisi 1.21.4
+* \[1.20+] Penghargaan telah dikemas kini untuk menggunakan semakan setakat 1.21.4
 * \[1.21+] Nama cakera "Creator (Music Box)" telah dinamakan semula kepada "Creator (Kotak Muzik/کوتق موزيک)"
   * &#x20;Menurut glosari "Music Box" dalam nama cakera ini boleh diterjemah
 * Pek telah dikemas kini untuk menyokong versi 1.21.4

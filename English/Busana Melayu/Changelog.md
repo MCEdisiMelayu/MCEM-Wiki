@@ -17,12 +17,18 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
 ---
 
 # Changelog
 
 {% tabs %}
 {% tab title="Java Edition" %}
+## v1.7.1 (31/8/2026) \[1.13-26.2] \[NuruddinPlays]
+
+* Minor patch update to actually add the Old-Spelling Indonesian (Bahasa Indonesia edjaän lama) language support that was left out in the previous update by accident, again thanks to Dustin945 for the translation
+
 ## v1.7.0 (1/5/2026) \[1.6-26.1] \[NuruddinPlays]
 
 * Updated the pack to support the 26.1 (Tiny Takeover) update
@@ -31,7 +37,7 @@ layout:
 * \[ALL] Improved/fixed OptiFine support for the "opposite attire sets'" CIT renames
 * \[1.13+] Renamed the filename and label on the pack icon from "1.13-1.21" to "1.13+"
 * \[1.13+] Merged some of the overlay folders into the main assets folder
-* \[1.13+] Added support for Old-Spelling Indonesian (Bahasa Indonesia edjaän lama) language, thanks to Dustin945
+* ~~\[1.13+] Added support for Old-Spelling Indonesian (Bahasa Indonesia edjaän lama) language, thanks to Dustin945~~
 * \[ALL] Renamed "Armorer" to "Attire Smith" to better reflect the armor replacements
 * \[1.13+] (Female Variant Only) Removed some extra pixels on the Copper Kasut model texture, since it would look off if you're only wearing a Copper Kasut
 * \[1.13+] (Male Variant Only) Removed the left-over `chainmail.pdn` file

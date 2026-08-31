@@ -17,12 +17,22 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
 ---
 
 # Log Perubahan
 
 {% tabs %}
 {% tab title="v1.2.x" %}
+## v1.2.7 (31/8/2026) \[1.7-26.2]
+
+* \[1.13+] Terjemahan telah dikemas kini kepada semakan terkini setakat 26.3-snapshot-10
+  * Versi pek ini hanya menambah string yang ditambah dalam versi 26.2
+* \[1.20+] Fail penghargaan dalam permainan telah dikemas kini kepada semakan setakat 26.2
+* \[ALL] Teks tampilan telah dikemas kini
+  * Beberapa teks tampilan pendua telah dialih keluar
+
 ## v1.2.6 (1/5/2026) \[1.7-26.1]
 
 * \[ALL] Terjemahan yang dikemas kini pada semakan semula mulai 26.2-snapshot-2

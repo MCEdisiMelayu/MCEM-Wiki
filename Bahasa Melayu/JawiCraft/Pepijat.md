@@ -17,6 +17,8 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
 ---
 
 # Pepijat
@@ -37,7 +39,7 @@ layout:
 
 {% tab title="<1.16.2" %}
 1. '/list uuids' shows parentheses incorrectly for right-to-left languages ([MC-190856](https://bugs.mojang.com/browse/MC-190856) | Mirror: [Atlassian](https://report.bugs.mojang.com/servicedesk/customer/portal/2/MC-190856) / [Mojira.dev](https://mojira.dev/MC-190856))
-2. Switched square brackets for right-to-left languages ([MC-191571](https://bugs.mojang.com/browse/MC-191571) | Mirrors: [Atlassian](https://report.bugs.mojang.com/servicedesk/customer/portal/2/MC-191571) / [Mojira.dev](https://mojira.dev/MC-191571))
+2. Switched square brackets for right-to-left languages ([MC-191571](https://bugs.mojang.com/browse/MC-191571) | Mirror: [Atlassian](https://report.bugs.mojang.com/servicedesk/customer/portal/2/MC-191571) / [Mojira.dev](https://mojira.dev/MC-191571))
 3. Some item tooltips use § for coloring, rendering them incorrect in right-to-left languages ([MC-57869](https://bugs.mojang.com/browse/MC-57869) | Mirror: [Atlassian](https://report.bugs.mojang.com/servicedesk/customer/portal/2/MC-57869) / [Mojira.dev](https://mojira.devhttps/mojira.dev/MC-57869))
 4. Advancement announcement message has switched brackets for right-to-left languages ([MC-190852](https://bugs.mojang.com/browse/MC-190852) | Mirror: [Atlassian](https://report.bugs.mojang.com/servicedesk/customer/portal/2/MC-190852) / [Mojira.dev](https://mojira.dev/MC-190852))
 5. '/' (slash) in chat and command block shows legacy formatting symbol for right-to-left languages ([MC-190860](https://bugs.mojang.com/browse/MC-190860) | Mirror: [Atlassian](https://report.bugs.mojang.com/servicedesk/customer/portal/2/MC-190860) / [Mojira.dev](https://mojira.dev/MC-190860))

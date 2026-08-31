@@ -17,12 +17,24 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
 ---
 
 # Changelog
 
 {% tabs %}
 {% tab title="v1.11.x" %}
+## v1.11.7 (31/8/2026) \[1.7-26.2]
+
+#### Happy 5th Anniversary to JawiCraft! A special anniversary video will be uploaded to [my YouTube channel](https://youtube.com/@NuruddinPlays) on September 16th (if nothing goes wrong)
+
+* \[1.13+] Updated translation to the revision as of 26.3-snapshot-10
+  * Only strings added in 26.2 are added to this pack version
+* \[1.20+] Updated the credits file to the revision as of 26.2
+* \[ALL] Updated splash texts
+  * Removed duplicate splash texts
+
 ## v1.11.6 (1/5/2026) \[1.7-26.1]
 
 * \[ALL] Updated translation to the revision as of 26.2-snapshot-2
