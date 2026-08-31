@@ -25,11 +25,11 @@ layout:
 
 {% tabs %}
 {% tab title="Edisi Java" %}
-## v1.7.1 (31/8/2026) \[1.13-26.2]
+## v1.7.1 (31/8/2026) \[1.13-26.2] \[NuruddinPlays]
 
 * Kemas kini tampalan yang kecil yang betul-betul menambah sokongan Bahasa Indonesia edjaän lama yang secara tidak sengaja tercicir dari kemas kini sebelumnya, sekali lagi terima kasih kepada Dustin945 untuk terjemahannya
 
-## v1.7.0 (1/5/2026) \[1.6-26.1]
+## v1.7.0 (1/5/2026) \[1.6-26.1] \[NuruddinPlays]
 
 * Pek telah dikemas kini untuk menyokong kemas kini 26.1 (Tiny Takeover)
 * Sokongan untuk model zirah baharu untuk makhluk kecil (baby mob) telah ditambah
@@ -42,7 +42,7 @@ layout:
 * \[1.13+] (Varian Perempuan Sahaja) Beberapa piksel tambahan pada tekstur model Kasut Tembaga telah dipadamkan, kerana ia akan kelihatan tidak kena bila anda hanya memakai Kasut Tembaga
 * \[1.13+] (Varian Lelaki Sahaja) Fail `chainmail.pdn` yang tinggal telah dialih keluar
 
-## v1.6.3 (Hotfix; Female Variant Only) (6/9/2025) \[1.6-1.12]
+## v1.6.3 (Hotfix; Female Variant Only) (6/9/2025) \[1.6-1.12] \[NuruddinPlays]
 
 Jangan dikelirukan dengan kemas kini v1.6.3 untuk 1.13-1.21 yang diterbitkan pada 31/8 yang sudah memperbaiki masalah ini
 
@@ -50,7 +50,7 @@ Jangan dikelirukan dengan kemas kini v1.6.3 untuk 1.13-1.21 yang diterbitkan pad
   * Terjemahan tersebut ialah Chainmail Gandik yang diterjemah sebagai "Gandi**l** Rantai"
   * Jika anda seorang pengguna pek ini pada versi 1.7-1.12 dan menggunakan bahasa Indonesia dalam permainan, anda mungkin mahu mengemas kini ke versi ini
 
-## v1.6.3 (31/8/2025) \[1.13-1.21 + 25w35a]
+## v1.6.3 (31/8/2025) \[1.13-1.21 + 25w35a] \[NuruddinPlays]
 
 * Fail pack.mcmeta telah dikemas kini untuk menyokong penformatan versi yang disokong yang diperkenalkan dalam versi 25w31a
   * Catatan: Pek ini hanya boleh dimuatkan dengan betul dalam versi 25w34a dan ke atas disebabkan oleh pepijat [MC-300888](https://bugs.mojang.com/browse/MC/issues/MC-300888)
@@ -60,7 +60,7 @@ Jangan dikelirukan dengan kemas kini v1.6.3 untuk 1.13-1.21 yang diterbitkan pad
 
 Catatan: Jika tiada sebarang perubahan berlaku antara sekarang dan terbitan penuh 1.21.9, versi ini akan ditanda sebagai serasi dengan 1.21.9 di Modrinth
 
-## v1.6.2 (8/6/2025) \[1.6-1.21]
+## v1.6.2 (8/6/2025) \[1.6-1.21] \[NuruddinPlays]
 
 * Terjemahan bahasa Indonesia telah dikemas kini. Terima kasih Dustin945!
 * Fail penghargaan telah dikemas kini
